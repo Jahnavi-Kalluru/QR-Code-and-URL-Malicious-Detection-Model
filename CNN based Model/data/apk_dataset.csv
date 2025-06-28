@@ -1,0 +1,1001 @@
+File_Name,Permissions,API_Calls,Activities,Services,Receivers,Providers,Dex_Size,Feature_Usage,Network_Usage,Malware
+app_0.apk,"CAMERA, READ_SMS","sendTextMessage, getLastKnownLocation",39,5,6,0,35261,49,No,1
+app_1.apk,"INTERNET, RECORD_AUDIO, CAMERA","getDeviceId, sendTextMessage",29,4,5,3,1369,19,Yes,1
+app_2.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",readContacts,15,6,9,2,32052,98,No,1
+app_3.apk,"CAMERA, RECORD_AUDIO","readContacts, getDeviceId, sendTextMessage, encryptData",43,2,5,2,1514,61,Yes,1
+app_4.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA","getDeviceId, sendTextMessage, getLastKnownLocation",8,11,2,0,10603,81,No,1
+app_5.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","getLastKnownLocation, readContacts, getDeviceId, encryptData",21,4,5,4,17486,84,No,0
+app_6.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS",getLastKnownLocation,39,15,4,1,45281,70,No,0
+app_7.apk,"INTERNET, ACCESS_FINE_LOCATION",sendTextMessage,19,6,7,4,30971,73,Yes,1
+app_8.apk,"READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","encryptData, readContacts, sendTextMessage",23,17,6,4,33958,14,No,0
+app_9.apk,"CAMERA, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, getLastKnownLocation",11,6,2,0,25569,62,Yes,1
+app_10.apk,"READ_SMS, RECORD_AUDIO","getLastKnownLocation, encryptData, getDeviceId",11,19,5,0,17373,64,Yes,0
+app_11.apk,"CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET",getLastKnownLocation,24,2,7,0,23748,46,Yes,0
+app_12.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS","sendTextMessage, encryptData",36,15,7,3,24124,65,Yes,1
+app_13.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA, ACCESS_FINE_LOCATION","getLastKnownLocation, sendTextMessage, readContacts",40,11,5,4,44016,68,Yes,0
+app_14.apk,"READ_SMS, CAMERA, INTERNET","encryptData, readContacts, sendTextMessage",24,8,9,2,29561,78,Yes,0
+app_15.apk,"ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, encryptData, readContacts",3,19,4,1,24670,82,Yes,0
+app_16.apk,"RECORD_AUDIO, READ_SMS, INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",sendTextMessage,22,13,3,3,8524,68,No,1
+app_17.apk,"RECORD_AUDIO, READ_SMS, CAMERA",getLastKnownLocation,2,12,4,2,17178,11,No,0
+app_18.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","readContacts, sendTextMessage",24,5,5,4,38756,74,No,1
+app_19.apk,"ACCESS_FINE_LOCATION, READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, readContacts, encryptData",44,6,6,0,20911,69,Yes,0
+app_20.apk,"INTERNET, CAMERA",readContacts,30,4,3,4,44303,60,Yes,1
+app_21.apk,"ACCESS_FINE_LOCATION, READ_SMS, CAMERA, RECORD_AUDIO","readContacts, sendTextMessage, getDeviceId, encryptData",38,19,2,1,19796,39,Yes,1
+app_22.apk,"INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","sendTextMessage, getLastKnownLocation, readContacts, getDeviceId",2,1,4,3,26793,20,Yes,0
+app_23.apk,"INTERNET, READ_SMS, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, getLastKnownLocation",21,17,5,3,27672,85,No,0
+app_24.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, CAMERA, RECORD_AUDIO",encryptData,33,12,4,1,21628,48,Yes,0
+app_25.apk,"CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS","readContacts, getDeviceId, getLastKnownLocation",12,15,3,2,18757,99,No,1
+app_26.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION, INTERNET, READ_SMS","readContacts, sendTextMessage",22,1,8,2,13355,86,Yes,0
+app_27.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO, READ_SMS","encryptData, sendTextMessage",44,14,4,3,20142,81,No,1
+app_28.apk,"RECORD_AUDIO, READ_SMS, CAMERA, INTERNET","readContacts, sendTextMessage",25,6,2,3,36085,72,Yes,0
+app_29.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA, READ_SMS, RECORD_AUDIO","getLastKnownLocation, getDeviceId, encryptData, sendTextMessage",49,5,2,0,20525,73,No,0
+app_30.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","getDeviceId, getLastKnownLocation",27,11,1,2,4958,70,Yes,0
+app_31.apk,"INTERNET, READ_SMS, RECORD_AUDIO","sendTextMessage, getDeviceId, getLastKnownLocation",42,4,4,1,5807,63,No,0
+app_32.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS","readContacts, getLastKnownLocation",28,13,9,2,42201,82,Yes,0
+app_33.apk,"CAMERA, RECORD_AUDIO, READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE","encryptData, readContacts, getDeviceId, getLastKnownLocation",16,11,7,0,18925,67,No,1
+app_34.apk,"INTERNET, WRITE_EXTERNAL_STORAGE","getDeviceId, getLastKnownLocation, encryptData",15,3,7,3,43927,94,No,1
+app_35.apk,"CAMERA, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, encryptData",47,1,7,3,28773,65,Yes,0
+app_36.apk,"WRITE_EXTERNAL_STORAGE, INTERNET","getLastKnownLocation, getDeviceId, readContacts, sendTextMessage",44,6,8,0,39006,43,No,1
+app_37.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, encryptData, readContacts, getLastKnownLocation",3,18,1,1,6168,40,Yes,1
+app_38.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA","encryptData, getDeviceId, getLastKnownLocation, readContacts",37,10,8,3,26434,61,Yes,1
+app_39.apk,"RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","sendTextMessage, readContacts, getDeviceId, encryptData",7,5,4,4,47695,98,Yes,0
+app_40.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA","sendTextMessage, readContacts",21,10,4,3,8197,85,No,0
+app_41.apk,"INTERNET, CAMERA, READ_SMS","getLastKnownLocation, getDeviceId",9,12,4,4,24917,10,No,0
+app_42.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, getLastKnownLocation",39,2,6,0,16946,64,Yes,1
+app_43.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA",encryptData,18,13,7,0,41097,31,Yes,0
+app_44.apk,"RECORD_AUDIO, CAMERA","encryptData, sendTextMessage, getLastKnownLocation, getDeviceId",4,8,6,3,11251,49,No,0
+app_45.apk,"CAMERA, RECORD_AUDIO, READ_SMS","getDeviceId, sendTextMessage, readContacts, getLastKnownLocation",25,2,1,2,46718,10,No,0
+app_46.apk,"WRITE_EXTERNAL_STORAGE, INTERNET","sendTextMessage, getDeviceId",14,1,8,4,7852,74,No,0
+app_47.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET, READ_SMS","getDeviceId, sendTextMessage",9,5,7,1,14016,72,Yes,1
+app_48.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, getLastKnownLocation",26,9,6,3,23799,63,Yes,0
+app_49.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET",getLastKnownLocation,2,17,6,1,32457,51,Yes,0
+app_50.apk,"CAMERA, ACCESS_FINE_LOCATION",sendTextMessage,20,9,5,3,29427,30,Yes,1
+app_51.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS","readContacts, encryptData, sendTextMessage, getDeviceId",28,11,6,2,41594,88,Yes,1
+app_52.apk,"RECORD_AUDIO, CAMERA","encryptData, sendTextMessage",47,15,9,2,36912,90,No,1
+app_53.apk,"ACCESS_FINE_LOCATION, READ_SMS","readContacts, getLastKnownLocation",7,6,9,2,29993,31,Yes,1
+app_54.apk,"INTERNET, RECORD_AUDIO","getLastKnownLocation, encryptData",44,3,8,2,27211,47,No,1
+app_55.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET",sendTextMessage,8,17,9,0,8503,89,No,0
+app_56.apk,"INTERNET, READ_SMS, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE","encryptData, sendTextMessage, getDeviceId, getLastKnownLocation",47,5,8,0,32207,17,Yes,0
+app_57.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","readContacts, encryptData",35,12,8,4,3778,71,No,1
+app_58.apk,"INTERNET, RECORD_AUDIO","readContacts, getDeviceId",14,18,1,1,7796,56,Yes,1
+app_59.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, getDeviceId",17,14,5,3,25898,26,No,1
+app_60.apk,"ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO",getDeviceId,36,11,4,3,36342,26,Yes,0
+app_61.apk,"ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, getLastKnownLocation, readContacts",40,9,2,0,13761,99,Yes,0
+app_62.apk,"INTERNET, RECORD_AUDIO, READ_SMS, CAMERA, ACCESS_FINE_LOCATION","getLastKnownLocation, getDeviceId, readContacts, sendTextMessage",4,2,8,3,11673,22,No,0
+app_63.apk,"RECORD_AUDIO, READ_SMS","encryptData, readContacts",2,12,3,0,30949,26,Yes,0
+app_64.apk,"CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, getDeviceId, sendTextMessage",6,3,4,4,41580,47,No,0
+app_65.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, CAMERA, READ_SMS","getLastKnownLocation, encryptData",42,3,7,1,2137,90,Yes,1
+app_66.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, getLastKnownLocation",4,1,9,4,32281,87,Yes,0
+app_67.apk,"ACCESS_FINE_LOCATION, CAMERA, INTERNET","getLastKnownLocation, sendTextMessage, getDeviceId, readContacts",29,8,2,2,14152,54,Yes,0
+app_68.apk,"WRITE_EXTERNAL_STORAGE, CAMERA",readContacts,18,8,3,2,5603,15,No,0
+app_69.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, CAMERA",encryptData,26,11,4,2,26000,44,No,1
+app_70.apk,"INTERNET, READ_SMS, ACCESS_FINE_LOCATION, CAMERA","getLastKnownLocation, encryptData",44,9,1,4,35300,23,Yes,0
+app_71.apk,"ACCESS_FINE_LOCATION, READ_SMS, CAMERA, RECORD_AUDIO","getDeviceId, sendTextMessage, encryptData",34,5,7,3,36029,81,No,0
+app_72.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, encryptData, readContacts",10,14,2,1,48463,70,Yes,0
+app_73.apk,"INTERNET, READ_SMS, CAMERA, ACCESS_FINE_LOCATION","readContacts, getLastKnownLocation, encryptData",36,3,5,2,18952,24,No,0
+app_74.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, encryptData, getLastKnownLocation, readContacts",14,5,1,2,49893,63,No,1
+app_75.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, READ_SMS","getLastKnownLocation, encryptData",31,5,3,2,31674,36,Yes,1
+app_76.apk,"RECORD_AUDIO, CAMERA, INTERNET, ACCESS_FINE_LOCATION","getLastKnownLocation, readContacts, encryptData",48,19,2,1,35936,22,Yes,0
+app_77.apk,"CAMERA, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, getLastKnownLocation, encryptData",15,14,1,2,47906,40,Yes,0
+app_78.apk,"READ_SMS, RECORD_AUDIO, INTERNET","sendTextMessage, getDeviceId, encryptData, readContacts",8,4,7,1,16454,44,Yes,1
+app_79.apk,"INTERNET, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO","readContacts, getDeviceId, encryptData",14,13,5,2,17686,69,Yes,0
+app_80.apk,"CAMERA, ACCESS_FINE_LOCATION","getDeviceId, readContacts, encryptData, sendTextMessage",23,10,1,4,12856,15,No,0
+app_81.apk,"CAMERA, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts, sendTextMessage, encryptData",40,18,6,4,33463,78,No,0
+app_82.apk,"INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","getDeviceId, readContacts, getLastKnownLocation",21,8,5,1,2687,95,Yes,1
+app_83.apk,"CAMERA, RECORD_AUDIO","encryptData, getLastKnownLocation, readContacts, getDeviceId",16,8,3,4,12207,67,Yes,0
+app_84.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","encryptData, readContacts",45,7,7,1,35598,58,Yes,0
+app_85.apk,"ACCESS_FINE_LOCATION, INTERNET, CAMERA",sendTextMessage,18,8,9,4,27435,32,No,1
+app_86.apk,"READ_SMS, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, getLastKnownLocation",47,14,9,4,21725,98,Yes,0
+app_87.apk,"RECORD_AUDIO, CAMERA, READ_SMS","readContacts, sendTextMessage",24,19,9,1,4106,43,Yes,0
+app_88.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO, CAMERA, READ_SMS",getLastKnownLocation,26,6,2,3,33328,35,No,1
+app_89.apk,"CAMERA, INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, sendTextMessage",25,1,3,4,26989,56,No,0
+app_90.apk,"INTERNET, CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",getLastKnownLocation,45,15,7,2,14887,14,No,1
+app_91.apk,"INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","getLastKnownLocation, encryptData, sendTextMessage, getDeviceId",41,1,5,3,4427,99,No,0
+app_92.apk,"INTERNET, CAMERA, RECORD_AUDIO",getDeviceId,29,17,2,1,6796,29,Yes,0
+app_93.apk,"READ_SMS, RECORD_AUDIO, CAMERA, INTERNET, WRITE_EXTERNAL_STORAGE",readContacts,15,1,3,3,30944,15,No,0
+app_94.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, ACCESS_FINE_LOCATION","readContacts, getLastKnownLocation, sendTextMessage",45,15,6,0,46890,79,No,0
+app_95.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA","sendTextMessage, readContacts, encryptData",1,2,7,0,47393,68,Yes,0
+app_96.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","readContacts, getDeviceId, sendTextMessage, encryptData",25,14,9,4,3091,73,Yes,1
+app_97.apk,"RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","readContacts, getDeviceId, getLastKnownLocation, encryptData",7,8,1,4,45395,27,Yes,0
+app_98.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, getDeviceId, readContacts",9,8,7,2,49016,13,No,0
+app_99.apk,"READ_SMS, CAMERA, ACCESS_FINE_LOCATION","readContacts, getLastKnownLocation, encryptData",24,19,8,3,26647,26,Yes,0
+app_100.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, readContacts, getDeviceId, sendTextMessage",1,7,3,0,39389,23,No,1
+app_101.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA","encryptData, getDeviceId, sendTextMessage, readContacts",44,19,4,4,1700,87,No,0
+app_102.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, RECORD_AUDIO","getDeviceId, encryptData, getLastKnownLocation",8,6,6,3,16221,22,No,0
+app_103.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, getLastKnownLocation",24,6,7,4,19738,16,Yes,0
+app_104.apk,"RECORD_AUDIO, READ_SMS, INTERNET, CAMERA, ACCESS_FINE_LOCATION","getLastKnownLocation, getDeviceId, readContacts, sendTextMessage",11,3,4,4,11587,53,No,0
+app_105.apk,"RECORD_AUDIO, INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA","getLastKnownLocation, getDeviceId",17,7,8,0,31316,24,Yes,0
+app_106.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO","getLastKnownLocation, getDeviceId, readContacts, encryptData",8,19,5,0,23908,28,Yes,1
+app_107.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS","getLastKnownLocation, readContacts, getDeviceId, sendTextMessage",35,8,1,4,40240,72,Yes,0
+app_108.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, encryptData",35,10,4,1,636,44,No,0
+app_109.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE","sendTextMessage, readContacts",33,15,3,4,17913,90,No,0
+app_110.apk,"CAMERA, INTERNET, READ_SMS, RECORD_AUDIO","sendTextMessage, readContacts, getDeviceId",5,15,9,4,48614,44,No,1
+app_111.apk,"INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation",42,1,8,2,19478,28,Yes,0
+app_112.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA","getDeviceId, readContacts",39,7,1,2,1161,29,No,0
+app_113.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS, RECORD_AUDIO",encryptData,41,4,6,2,35740,44,No,0
+app_114.apk,"ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA",readContacts,28,6,9,1,27753,41,No,0
+app_115.apk,"ACCESS_FINE_LOCATION, INTERNET",encryptData,7,1,7,1,27384,57,No,0
+app_116.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","readContacts, getLastKnownLocation, sendTextMessage",9,5,4,4,33354,53,No,0
+app_117.apk,"WRITE_EXTERNAL_STORAGE, INTERNET","encryptData, sendTextMessage, getLastKnownLocation",8,1,1,2,11204,33,Yes,0
+app_118.apk,"ACCESS_FINE_LOCATION, INTERNET","encryptData, sendTextMessage, getLastKnownLocation",12,4,2,1,39487,70,Yes,0
+app_119.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, ACCESS_FINE_LOCATION","getDeviceId, encryptData",34,2,5,0,25027,26,Yes,0
+app_120.apk,"INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA","readContacts, getDeviceId, getLastKnownLocation, sendTextMessage",33,10,5,4,16822,80,Yes,0
+app_121.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO","sendTextMessage, encryptData, getDeviceId, readContacts",48,5,8,3,48017,59,No,0
+app_122.apk,"CAMERA, READ_SMS, INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts, getLastKnownLocation",23,10,6,4,7468,74,Yes,1
+app_123.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET, RECORD_AUDIO","encryptData, getDeviceId",24,1,8,3,28018,41,No,1
+app_124.apk,"ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, readContacts, getDeviceId",37,6,2,2,46864,45,Yes,1
+app_125.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, getLastKnownLocation, readContacts",35,13,3,3,28386,22,Yes,1
+app_126.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA","getLastKnownLocation, sendTextMessage, encryptData",44,15,6,2,2200,79,Yes,1
+app_127.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA","sendTextMessage, encryptData, getLastKnownLocation, readContacts",40,4,3,0,28746,67,No,1
+app_128.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS, INTERNET, RECORD_AUDIO","encryptData, getLastKnownLocation, sendTextMessage",22,13,6,3,35968,23,No,0
+app_129.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, CAMERA","readContacts, sendTextMessage",27,15,6,4,23699,46,Yes,1
+app_130.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA, INTERNET","getDeviceId, getLastKnownLocation",35,8,2,2,45089,88,No,0
+app_131.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE","readContacts, encryptData",1,5,7,4,32615,77,Yes,0
+app_132.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA","sendTextMessage, readContacts, getLastKnownLocation, getDeviceId",35,15,2,1,6020,49,Yes,1
+app_133.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, INTERNET","getDeviceId, sendTextMessage, encryptData, getLastKnownLocation",37,4,6,2,44778,68,Yes,0
+app_134.apk,"ACCESS_FINE_LOCATION, INTERNET, CAMERA","readContacts, getLastKnownLocation",47,12,1,3,36955,89,No,0
+app_135.apk,"ACCESS_FINE_LOCATION, READ_SMS, INTERNET, RECORD_AUDIO","getLastKnownLocation, readContacts, encryptData, getDeviceId",14,13,3,2,21429,25,Yes,1
+app_136.apk,"READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET","getDeviceId, sendTextMessage, readContacts, getLastKnownLocation",3,2,2,4,42105,71,Yes,0
+app_137.apk,"CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS","encryptData, getDeviceId, sendTextMessage",1,19,7,0,15455,13,Yes,0
+app_138.apk,"READ_SMS, INTERNET","getLastKnownLocation, readContacts, sendTextMessage",5,19,4,2,44549,54,No,1
+app_139.apk,"RECORD_AUDIO, CAMERA","getLastKnownLocation, getDeviceId, sendTextMessage",26,4,8,3,14417,99,Yes,1
+app_140.apk,"INTERNET, RECORD_AUDIO",getLastKnownLocation,14,4,6,1,5257,37,No,0
+app_141.apk,"WRITE_EXTERNAL_STORAGE, INTERNET","readContacts, sendTextMessage",39,11,4,0,13545,75,Yes,0
+app_142.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA","getLastKnownLocation, readContacts, encryptData",27,5,5,1,42180,40,No,0
+app_143.apk,"ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","encryptData, getDeviceId, sendTextMessage, getLastKnownLocation",9,11,9,2,5233,12,Yes,1
+app_144.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA","sendTextMessage, readContacts, getLastKnownLocation, encryptData",15,10,7,4,31454,17,Yes,0
+app_145.apk,"READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, encryptData, getDeviceId, getLastKnownLocation",15,8,9,4,31635,33,No,0
+app_146.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS","getLastKnownLocation, sendTextMessage",26,6,7,3,7581,24,No,0
+app_147.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET","getLastKnownLocation, readContacts, encryptData",42,6,1,4,41958,52,Yes,0
+app_148.apk,"RECORD_AUDIO, READ_SMS","readContacts, encryptData, sendTextMessage",13,8,8,0,24001,40,No,1
+app_149.apk,"WRITE_EXTERNAL_STORAGE, CAMERA","getLastKnownLocation, encryptData, sendTextMessage, getDeviceId",32,15,4,4,21613,82,Yes,0
+app_150.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, CAMERA","getDeviceId, sendTextMessage",39,14,3,3,34941,54,Yes,1
+app_151.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getLastKnownLocation, getDeviceId",49,11,7,2,47586,75,Yes,0
+app_152.apk,"READ_SMS, ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA","sendTextMessage, encryptData",32,12,3,2,25190,17,No,1
+app_153.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET",getDeviceId,4,13,8,4,44439,80,Yes,1
+app_154.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, CAMERA",encryptData,30,8,6,1,29845,66,No,0
+app_155.apk,"READ_SMS, ACCESS_FINE_LOCATION",getDeviceId,37,18,5,2,46813,89,Yes,0
+app_156.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","readContacts, getDeviceId, encryptData, sendTextMessage",23,1,4,4,45071,39,No,0
+app_157.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO","getDeviceId, encryptData",39,15,8,3,27329,83,No,1
+app_158.apk,"INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION","sendTextMessage, readContacts, getLastKnownLocation",45,8,8,4,35562,27,Yes,0
+app_159.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET, RECORD_AUDIO","encryptData, sendTextMessage, getDeviceId",15,11,1,2,4130,78,No,1
+app_160.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts",43,12,9,3,48361,48,Yes,1
+app_161.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, encryptData, sendTextMessage",29,12,5,4,32370,69,Yes,1
+app_162.apk,"CAMERA, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE, INTERNET","readContacts, encryptData, getDeviceId",36,4,4,0,49798,52,Yes,1
+app_163.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","readContacts, encryptData",13,16,6,3,47721,54,Yes,0
+app_164.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS, INTERNET, ACCESS_FINE_LOCATION","readContacts, getLastKnownLocation, sendTextMessage, encryptData",32,4,6,0,45442,32,Yes,0
+app_165.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, INTERNET","getDeviceId, encryptData",7,5,2,1,3953,78,No,0
+app_166.apk,"INTERNET, CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, sendTextMessage",22,5,8,3,37775,15,Yes,1
+app_167.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, getDeviceId",28,8,7,0,43870,65,No,1
+app_168.apk,"INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION",readContacts,2,10,1,2,38896,13,No,1
+app_169.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA","getLastKnownLocation, readContacts",42,17,5,2,8828,32,Yes,0
+app_170.apk,"READ_SMS, INTERNET, RECORD_AUDIO","readContacts, getDeviceId, getLastKnownLocation, sendTextMessage",45,9,6,1,16034,15,No,0
+app_171.apk,"READ_SMS, CAMERA, INTERNET","getLastKnownLocation, getDeviceId, sendTextMessage, readContacts",6,19,4,3,20244,41,Yes,1
+app_172.apk,"CAMERA, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","getDeviceId, getLastKnownLocation",28,14,2,3,19889,27,No,0
+app_173.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA","encryptData, readContacts",28,8,4,3,36820,24,No,0
+app_174.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS","sendTextMessage, readContacts, getLastKnownLocation, encryptData",44,9,1,1,49670,49,No,1
+app_175.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE","sendTextMessage, getLastKnownLocation, getDeviceId, readContacts",44,11,7,3,35510,82,Yes,0
+app_176.apk,"ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET","readContacts, getLastKnownLocation",20,1,2,2,15165,83,No,0
+app_177.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","readContacts, getLastKnownLocation, sendTextMessage",30,14,2,0,38365,93,Yes,0
+app_178.apk,"CAMERA, INTERNET, RECORD_AUDIO, READ_SMS","getDeviceId, sendTextMessage",11,5,9,2,9140,15,No,0
+app_179.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, READ_SMS, ACCESS_FINE_LOCATION","getLastKnownLocation, getDeviceId",28,14,5,2,35216,72,No,1
+app_180.apk,"ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, INTERNET, CAMERA","readContacts, encryptData, sendTextMessage, getLastKnownLocation",25,4,2,0,26021,76,No,0
+app_181.apk,"INTERNET, RECORD_AUDIO","getLastKnownLocation, getDeviceId",39,1,9,2,30549,20,No,0
+app_182.apk,"RECORD_AUDIO, CAMERA, INTERNET, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts",33,19,9,1,6118,52,Yes,0
+app_183.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET","getDeviceId, getLastKnownLocation",1,8,1,0,37504,26,Yes,1
+app_184.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, encryptData, getLastKnownLocation",27,15,3,2,2420,13,No,0
+app_185.apk,"READ_SMS, CAMERA, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO",sendTextMessage,13,15,4,4,44437,72,No,0
+app_186.apk,"CAMERA, INTERNET, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO",sendTextMessage,41,9,7,2,4688,77,Yes,0
+app_187.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS, RECORD_AUDIO",encryptData,3,9,4,1,12707,90,Yes,0
+app_188.apk,"INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData",39,10,2,3,738,50,Yes,0
+app_189.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS, INTERNET","encryptData, getLastKnownLocation, sendTextMessage",6,9,7,2,33472,92,Yes,1
+app_190.apk,"ACCESS_FINE_LOCATION, READ_SMS",getLastKnownLocation,8,3,6,3,11299,14,No,1
+app_191.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, CAMERA",sendTextMessage,27,11,3,4,6052,41,No,0
+app_192.apk,"ACCESS_FINE_LOCATION, READ_SMS",getLastKnownLocation,9,6,6,2,29416,95,Yes,0
+app_193.apk,"CAMERA, RECORD_AUDIO, INTERNET, READ_SMS","getDeviceId, encryptData, readContacts, getLastKnownLocation",37,2,6,0,5427,79,Yes,1
+app_194.apk,"RECORD_AUDIO, READ_SMS","encryptData, getDeviceId, readContacts",33,7,5,3,28464,44,Yes,0
+app_195.apk,"INTERNET, ACCESS_FINE_LOCATION","encryptData, readContacts",42,18,4,4,11664,31,Yes,1
+app_196.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getDeviceId, sendTextMessage",44,2,1,0,37658,74,Yes,0
+app_197.apk,"ACCESS_FINE_LOCATION, READ_SMS","getDeviceId, sendTextMessage, encryptData, getLastKnownLocation",24,17,6,0,19571,93,Yes,1
+app_198.apk,"READ_SMS, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, INTERNET","getLastKnownLocation, sendTextMessage, readContacts",15,11,2,0,48909,31,No,1
+app_199.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE, INTERNET",readContacts,32,12,3,0,6660,20,No,1
+app_200.apk,"ACCESS_FINE_LOCATION, CAMERA",getLastKnownLocation,32,19,8,2,16310,86,No,1
+app_201.apk,"READ_SMS, RECORD_AUDIO, CAMERA, INTERNET","getLastKnownLocation, sendTextMessage, encryptData, getDeviceId",24,7,6,2,5626,12,Yes,0
+app_202.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getDeviceId, sendTextMessage",41,6,3,2,30509,18,Yes,1
+app_203.apk,"ACCESS_FINE_LOCATION, CAMERA, INTERNET, READ_SMS, RECORD_AUDIO","getLastKnownLocation, getDeviceId, encryptData, sendTextMessage",49,1,7,4,34084,69,Yes,0
+app_204.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET",encryptData,49,17,4,4,46682,85,No,0
+app_205.apk,"READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts",12,11,9,4,25896,96,Yes,1
+app_206.apk,"CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, sendTextMessage, encryptData, getDeviceId",39,18,5,1,692,23,Yes,1
+app_207.apk,"RECORD_AUDIO, INTERNET, READ_SMS","sendTextMessage, encryptData",2,17,3,4,36913,27,No,1
+app_208.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",readContacts,3,7,2,2,13316,82,Yes,0
+app_209.apk,"INTERNET, CAMERA","getDeviceId, readContacts, sendTextMessage",49,17,2,2,39582,32,No,1
+app_210.apk,"CAMERA, INTERNET, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","readContacts, getDeviceId",37,9,3,1,32630,83,No,1
+app_211.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, sendTextMessage",49,17,2,1,40642,92,Yes,0
+app_212.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION, CAMERA, READ_SMS","readContacts, getLastKnownLocation, sendTextMessage",17,8,4,4,36968,56,No,0
+app_213.apk,"READ_SMS, ACCESS_FINE_LOCATION","getDeviceId, encryptData",49,17,2,3,31198,78,Yes,0
+app_214.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, INTERNET","sendTextMessage, getLastKnownLocation, getDeviceId",2,7,9,1,11155,56,No,0
+app_215.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA","encryptData, getLastKnownLocation, readContacts, sendTextMessage",2,1,2,0,48397,96,Yes,1
+app_216.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, INTERNET, RECORD_AUDIO","readContacts, sendTextMessage",28,13,9,2,30575,39,No,1
+app_217.apk,"READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, sendTextMessage",23,19,6,0,9859,34,Yes,1
+app_218.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS","getDeviceId, sendTextMessage",37,19,1,2,37161,37,No,1
+app_219.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA","getLastKnownLocation, readContacts, encryptData, sendTextMessage",32,17,4,2,40079,34,No,0
+app_220.apk,"CAMERA, INTERNET, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getDeviceId, encryptData, getLastKnownLocation, readContacts",33,13,1,1,42556,83,No,1
+app_221.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",readContacts,1,16,6,1,33772,87,Yes,0
+app_222.apk,"RECORD_AUDIO, INTERNET","readContacts, sendTextMessage, encryptData",19,8,4,0,43081,67,Yes,1
+app_223.apk,"RECORD_AUDIO, INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS",readContacts,2,19,3,2,15171,50,No,0
+app_224.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA, INTERNET","sendTextMessage, encryptData, getLastKnownLocation, getDeviceId",44,18,3,0,27548,34,Yes,1
+app_225.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, encryptData, readContacts",26,1,9,3,11238,87,No,0
+app_226.apk,"RECORD_AUDIO, READ_SMS, INTERNET","getDeviceId, readContacts, getLastKnownLocation",32,14,6,0,26463,57,Yes,0
+app_227.apk,"ACCESS_FINE_LOCATION, CAMERA",getDeviceId,6,19,9,4,44454,19,No,1
+app_228.apk,"ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, getDeviceId",32,15,5,0,7273,84,Yes,0
+app_229.apk,"CAMERA, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE","getDeviceId, encryptData",4,18,2,4,37084,20,No,1
+app_230.apk,"READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA","getDeviceId, readContacts",11,2,8,4,30394,94,No,0
+app_231.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET","encryptData, getLastKnownLocation, getDeviceId, sendTextMessage",17,17,5,4,1217,30,No,1
+app_232.apk,"INTERNET, CAMERA, ACCESS_FINE_LOCATION","readContacts, getDeviceId",38,18,2,3,12176,95,No,0
+app_233.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET",sendTextMessage,24,6,4,0,4934,54,Yes,0
+app_234.apk,"ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO","getDeviceId, encryptData, getLastKnownLocation, readContacts",5,19,9,0,38325,16,No,0
+app_235.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, INTERNET","readContacts, encryptData, sendTextMessage",34,4,4,3,29600,90,Yes,0
+app_236.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS",readContacts,6,1,4,2,5494,73,Yes,0
+app_237.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, INTERNET","readContacts, getDeviceId, getLastKnownLocation",22,8,2,1,4734,73,No,0
+app_238.apk,"INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA",getLastKnownLocation,11,7,6,0,4264,11,Yes,0
+app_239.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS",sendTextMessage,48,3,2,1,44449,85,Yes,0
+app_240.apk,"RECORD_AUDIO, READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE",getDeviceId,16,10,7,3,37905,51,Yes,0
+app_241.apk,"READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET","readContacts, encryptData",33,10,3,2,35372,91,No,1
+app_242.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA","sendTextMessage, readContacts",9,19,3,2,42715,63,Yes,0
+app_243.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET","readContacts, encryptData",6,14,5,2,23685,84,Yes,0
+app_244.apk,"RECORD_AUDIO, CAMERA",readContacts,16,2,3,3,43942,25,No,1
+app_245.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS, RECORD_AUDIO","encryptData, readContacts, getDeviceId",29,1,2,4,41653,27,No,0
+app_246.apk,"CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","sendTextMessage, encryptData",3,18,9,4,12499,68,Yes,1
+app_247.apk,"INTERNET, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, readContacts",20,7,2,1,36987,99,No,0
+app_248.apk,"INTERNET, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO","readContacts, getLastKnownLocation, sendTextMessage",36,8,2,4,3081,25,Yes,0
+app_249.apk,"CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation, readContacts, getDeviceId",19,1,8,4,3263,15,Yes,0
+app_250.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","encryptData, getLastKnownLocation",26,3,9,2,27874,66,Yes,1
+app_251.apk,"ACCESS_FINE_LOCATION, CAMERA","encryptData, readContacts, sendTextMessage",3,8,7,2,39259,56,No,1
+app_252.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION, INTERNET",getDeviceId,19,15,3,1,11031,57,Yes,0
+app_253.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, CAMERA","readContacts, getDeviceId, getLastKnownLocation",20,5,9,0,25807,51,No,0
+app_254.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS","getLastKnownLocation, getDeviceId",32,3,3,1,31335,85,No,1
+app_255.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, readContacts, encryptData",7,19,5,1,11564,69,Yes,0
+app_256.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE",getLastKnownLocation,41,1,9,3,11812,86,No,0
+app_257.apk,"CAMERA, READ_SMS","getDeviceId, readContacts",33,15,3,3,38048,13,No,1
+app_258.apk,"CAMERA, RECORD_AUDIO, INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, sendTextMessage, getDeviceId, encryptData",40,8,7,1,37445,11,No,1
+app_259.apk,"ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA","readContacts, sendTextMessage, getDeviceId",39,2,1,1,48437,99,No,0
+app_260.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, READ_SMS, INTERNET","getLastKnownLocation, getDeviceId, readContacts",18,3,4,1,6976,68,No,1
+app_261.apk,"CAMERA, READ_SMS, INTERNET, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",40,14,4,4,25065,36,Yes,1
+app_262.apk,"INTERNET, READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, sendTextMessage, readContacts",1,14,7,3,2882,36,No,0
+app_263.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO",readContacts,11,11,8,1,22963,88,Yes,0
+app_264.apk,"ACCESS_FINE_LOCATION, CAMERA","getDeviceId, encryptData, readContacts",28,16,1,2,45776,81,Yes,0
+app_265.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA",getLastKnownLocation,25,4,5,2,33902,16,Yes,1
+app_266.apk,"READ_SMS, INTERNET","encryptData, readContacts, getDeviceId",23,5,7,4,26845,72,Yes,1
+app_267.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA","readContacts, getDeviceId",31,14,4,4,45264,55,Yes,0
+app_268.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","getDeviceId, getLastKnownLocation, encryptData, readContacts",30,16,4,0,27446,72,Yes,1
+app_269.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO","readContacts, sendTextMessage, encryptData",42,18,4,0,14662,21,No,0
+app_270.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS","sendTextMessage, getDeviceId",35,7,6,0,49654,22,No,0
+app_271.apk,"CAMERA, RECORD_AUDIO, INTERNET","encryptData, getDeviceId, readContacts, sendTextMessage",7,10,7,4,47273,52,No,0
+app_272.apk,"READ_SMS, INTERNET","encryptData, sendTextMessage, getDeviceId",16,7,2,4,8897,26,Yes,0
+app_273.apk,"CAMERA, INTERNET, READ_SMS, RECORD_AUDIO","getDeviceId, encryptData, getLastKnownLocation",26,1,5,4,22835,72,No,1
+app_274.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA",readContacts,48,19,4,2,45595,90,No,0
+app_275.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO","getLastKnownLocation, getDeviceId, sendTextMessage, readContacts",49,16,3,4,14894,45,No,1
+app_276.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, INTERNET","sendTextMessage, encryptData",2,19,7,2,27697,94,Yes,0
+app_277.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","encryptData, readContacts",1,4,6,0,22510,17,No,0
+app_278.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS","readContacts, sendTextMessage",48,18,7,0,24623,78,Yes,1
+app_279.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, READ_SMS, INTERNET","getDeviceId, getLastKnownLocation",12,2,5,0,22887,99,No,0
+app_280.apk,"CAMERA, READ_SMS","getLastKnownLocation, getDeviceId, encryptData, sendTextMessage",5,1,6,1,3390,89,Yes,0
+app_281.apk,"CAMERA, INTERNET, READ_SMS","getLastKnownLocation, readContacts, getDeviceId, sendTextMessage",37,15,5,1,28269,45,Yes,0
+app_282.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET","readContacts, getDeviceId, sendTextMessage",32,5,7,3,44126,37,Yes,1
+app_283.apk,"CAMERA, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, encryptData",9,11,2,3,8526,56,No,0
+app_284.apk,"ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO","encryptData, getDeviceId",41,10,5,3,3806,85,No,0
+app_285.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS, INTERNET, RECORD_AUDIO","sendTextMessage, getLastKnownLocation",35,2,6,1,34165,39,Yes,0
+app_286.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION, CAMERA","getDeviceId, readContacts",19,3,6,1,9777,32,No,0
+app_287.apk,"CAMERA, RECORD_AUDIO",sendTextMessage,48,12,5,3,42739,25,Yes,1
+app_288.apk,"CAMERA, READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getLastKnownLocation, getDeviceId",16,5,7,3,48164,23,Yes,0
+app_289.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, INTERNET","getDeviceId, getLastKnownLocation, sendTextMessage",3,5,8,4,48508,83,No,0
+app_290.apk,"RECORD_AUDIO, CAMERA, READ_SMS, ACCESS_FINE_LOCATION, INTERNET","getDeviceId, getLastKnownLocation, readContacts, encryptData",20,6,7,3,15183,80,No,0
+app_291.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","readContacts, getLastKnownLocation",24,9,5,4,1170,61,No,0
+app_292.apk,"INTERNET, CAMERA, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",33,2,1,2,24175,46,Yes,1
+app_293.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE","readContacts, getDeviceId, sendTextMessage, encryptData",24,12,5,1,18389,38,Yes,0
+app_294.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA",getLastKnownLocation,11,3,2,3,45035,76,No,1
+app_295.apk,"CAMERA, INTERNET, READ_SMS, ACCESS_FINE_LOCATION","readContacts, getLastKnownLocation",49,12,5,1,13506,24,Yes,0
+app_296.apk,"READ_SMS, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION",encryptData,8,17,5,1,49036,56,No,0
+app_297.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA",getDeviceId,36,10,2,1,27031,55,Yes,1
+app_298.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, readContacts, getDeviceId, encryptData",38,14,5,2,22139,61,No,0
+app_299.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, sendTextMessage, readContacts",40,17,4,0,17133,28,No,1
+app_300.apk,"INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",getLastKnownLocation,20,18,1,3,35160,86,Yes,1
+app_301.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION","readContacts, getDeviceId, encryptData, getLastKnownLocation",35,19,3,0,3939,30,No,0
+app_302.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA","readContacts, getDeviceId, encryptData, getLastKnownLocation",48,17,1,0,32672,73,No,0
+app_303.apk,"READ_SMS, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, sendTextMessage",25,14,5,0,36122,46,Yes,1
+app_304.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, READ_SMS","getDeviceId, getLastKnownLocation",35,9,4,1,12077,36,No,0
+app_305.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","getLastKnownLocation, readContacts, getDeviceId",25,8,7,4,12263,64,Yes,0
+app_306.apk,"CAMERA, READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET","getDeviceId, getLastKnownLocation, sendTextMessage",29,2,5,1,20676,38,No,0
+app_307.apk,"INTERNET, ACCESS_FINE_LOCATION",readContacts,18,13,4,1,44886,29,Yes,0
+app_308.apk,"CAMERA, INTERNET","sendTextMessage, readContacts, encryptData",46,7,2,0,24755,34,No,1
+app_309.apk,"INTERNET, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, getLastKnownLocation, readContacts",18,9,4,1,41503,79,No,0
+app_310.apk,"CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","encryptData, sendTextMessage",2,11,2,0,20496,72,No,0
+app_311.apk,"INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, CAMERA","encryptData, getLastKnownLocation",35,14,8,4,35886,45,No,1
+app_312.apk,"CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET","encryptData, sendTextMessage, getDeviceId",16,4,3,3,21562,11,Yes,0
+app_313.apk,"ACCESS_FINE_LOCATION, CAMERA","readContacts, sendTextMessage",41,13,9,0,36431,31,Yes,0
+app_314.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS","getLastKnownLocation, sendTextMessage",36,2,4,4,36210,25,Yes,1
+app_315.apk,"READ_SMS, CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET","sendTextMessage, readContacts, encryptData, getDeviceId",33,5,6,3,35193,27,Yes,0
+app_316.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS",sendTextMessage,4,11,5,2,36240,78,Yes,1
+app_317.apk,"ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, getDeviceId, readContacts",33,6,1,0,12205,63,Yes,1
+app_318.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, getLastKnownLocation, sendTextMessage, readContacts",14,18,9,0,43908,39,Yes,0
+app_319.apk,"ACCESS_FINE_LOCATION, READ_SMS","sendTextMessage, getDeviceId",21,10,1,2,28547,54,No,0
+app_320.apk,"INTERNET, READ_SMS, RECORD_AUDIO, CAMERA","sendTextMessage, getDeviceId",48,4,8,2,11466,28,No,0
+app_321.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","readContacts, sendTextMessage, getLastKnownLocation",20,9,9,0,17874,96,No,0
+app_322.apk,"READ_SMS, RECORD_AUDIO, INTERNET","sendTextMessage, getDeviceId",8,6,9,2,11638,43,No,1
+app_323.apk,"CAMERA, INTERNET, READ_SMS","getDeviceId, encryptData, readContacts",7,2,1,1,16435,22,Yes,1
+app_324.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getLastKnownLocation, sendTextMessage, encryptData, readContacts",3,17,2,3,46413,52,Yes,0
+app_325.apk,"INTERNET, ACCESS_FINE_LOCATION","sendTextMessage, readContacts, getDeviceId, getLastKnownLocation",17,5,1,3,989,71,Yes,1
+app_326.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, INTERNET",encryptData,33,6,2,3,45016,31,No,1
+app_327.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO",getLastKnownLocation,48,12,8,1,22760,61,Yes,1
+app_328.apk,"RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, readContacts, getDeviceId, getLastKnownLocation",12,10,5,2,26569,61,No,0
+app_329.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS, INTERNET","encryptData, readContacts",22,6,7,4,19775,45,Yes,0
+app_330.apk,"CAMERA, RECORD_AUDIO, READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE","encryptData, sendTextMessage, readContacts",22,8,2,2,36784,82,Yes,0
+app_331.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, encryptData, getLastKnownLocation, sendTextMessage",46,2,8,0,39678,28,Yes,1
+app_332.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET, RECORD_AUDIO","readContacts, getDeviceId, getLastKnownLocation, encryptData",30,12,6,3,33321,47,Yes,0
+app_333.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, CAMERA","encryptData, getDeviceId, readContacts, sendTextMessage",38,13,8,2,17499,79,No,0
+app_334.apk,"CAMERA, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",readContacts,38,7,1,4,39212,88,No,0
+app_335.apk,"INTERNET, ACCESS_FINE_LOCATION","readContacts, getDeviceId, encryptData, sendTextMessage",45,10,1,0,40672,66,Yes,0
+app_336.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, READ_SMS","encryptData, getLastKnownLocation, sendTextMessage, readContacts",8,13,7,1,34222,29,No,0
+app_337.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation",27,17,8,1,11125,18,Yes,1
+app_338.apk,"RECORD_AUDIO, READ_SMS",readContacts,27,14,3,4,2129,41,Yes,0
+app_339.apk,"READ_SMS, CAMERA","encryptData, readContacts",34,2,5,0,11473,13,Yes,0
+app_340.apk,"READ_SMS, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, CAMERA",readContacts,21,11,1,3,7359,59,Yes,0
+app_341.apk,"READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION",sendTextMessage,30,1,7,2,42109,91,No,0
+app_342.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","encryptData, readContacts",33,19,5,0,43807,14,Yes,0
+app_343.apk,"RECORD_AUDIO, READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, getDeviceId, readContacts",28,4,8,1,45950,29,Yes,0
+app_344.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, INTERNET, RECORD_AUDIO","readContacts, sendTextMessage, encryptData, getDeviceId",47,19,8,4,36546,96,No,0
+app_345.apk,"INTERNET, READ_SMS, ACCESS_FINE_LOCATION","getLastKnownLocation, sendTextMessage, readContacts",33,11,9,4,22339,84,Yes,0
+app_346.apk,"INTERNET, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE",getDeviceId,5,8,7,2,27716,46,No,0
+app_347.apk,"READ_SMS, CAMERA",encryptData,48,11,1,4,19445,31,Yes,0
+app_348.apk,"RECORD_AUDIO, READ_SMS","getDeviceId, encryptData, getLastKnownLocation",19,4,3,4,7039,67,Yes,1
+app_349.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET","encryptData, readContacts",4,17,8,0,34125,77,Yes,1
+app_350.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO",sendTextMessage,35,7,3,3,5386,53,Yes,0
+app_351.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","readContacts, sendTextMessage, getDeviceId",49,8,8,2,46213,43,Yes,0
+app_352.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO","sendTextMessage, getDeviceId",17,3,1,0,7985,86,Yes,1
+app_353.apk,"ACCESS_FINE_LOCATION, INTERNET, READ_SMS, RECORD_AUDIO","getLastKnownLocation, readContacts, encryptData, sendTextMessage",44,2,5,3,31955,51,No,0
+app_354.apk,"ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, INTERNET","sendTextMessage, getDeviceId, encryptData",28,15,4,0,46948,18,Yes,1
+app_355.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, getLastKnownLocation",30,5,5,0,17267,16,No,1
+app_356.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE",encryptData,29,1,8,4,47665,77,No,0
+app_357.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, getDeviceId, getLastKnownLocation, sendTextMessage",46,4,4,3,28953,28,Yes,0
+app_358.apk,"READ_SMS, CAMERA","sendTextMessage, encryptData",6,15,4,2,11244,40,No,1
+app_359.apk,"READ_SMS, ACCESS_FINE_LOCATION, INTERNET","encryptData, readContacts, getDeviceId, getLastKnownLocation",35,19,3,2,37602,44,Yes,0
+app_360.apk,"CAMERA, INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","readContacts, getLastKnownLocation",41,3,7,3,12726,66,No,0
+app_361.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, INTERNET","getDeviceId, sendTextMessage",37,11,3,4,28369,94,Yes,0
+app_362.apk,"READ_SMS, INTERNET","getDeviceId, getLastKnownLocation",24,17,3,1,23088,70,No,0
+app_363.apk,"READ_SMS, CAMERA",sendTextMessage,29,13,5,0,13940,40,No,1
+app_364.apk,"INTERNET, RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE",readContacts,49,11,5,4,32209,92,Yes,1
+app_365.apk,"RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA","getLastKnownLocation, getDeviceId, encryptData",46,2,6,3,48288,62,No,1
+app_366.apk,"CAMERA, READ_SMS",encryptData,31,9,8,0,22995,41,Yes,0
+app_367.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","sendTextMessage, getLastKnownLocation",35,2,6,2,37519,75,Yes,0
+app_368.apk,"READ_SMS, INTERNET","encryptData, getLastKnownLocation",33,9,1,1,45448,68,Yes,0
+app_369.apk,"CAMERA, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION",getDeviceId,21,9,8,2,49408,19,Yes,0
+app_370.apk,"CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, readContacts, sendTextMessage",32,8,8,3,1422,11,Yes,0
+app_371.apk,"RECORD_AUDIO, INTERNET, READ_SMS",encryptData,23,17,9,0,28026,75,No,1
+app_372.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO, INTERNET",getLastKnownLocation,33,1,9,3,8457,69,No,1
+app_373.apk,"RECORD_AUDIO, CAMERA, READ_SMS","sendTextMessage, getDeviceId, getLastKnownLocation, readContacts",3,11,2,0,49064,97,No,0
+app_374.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","readContacts, encryptData, getLastKnownLocation",18,8,2,4,34498,26,Yes,1
+app_375.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, getDeviceId",25,10,3,1,43895,25,No,0
+app_376.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION",readContacts,42,7,1,4,24531,25,No,0
+app_377.apk,"READ_SMS, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE",encryptData,31,3,4,4,10506,55,No,1
+app_378.apk,"INTERNET, CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation, sendTextMessage",3,3,4,3,38201,48,No,0
+app_379.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE","sendTextMessage, encryptData, getLastKnownLocation",40,18,9,1,47563,40,No,1
+app_380.apk,"RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, READ_SMS","encryptData, sendTextMessage, getLastKnownLocation, getDeviceId",46,5,9,0,26439,97,Yes,1
+app_381.apk,"RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, getDeviceId, encryptData",24,12,9,0,49645,10,Yes,0
+app_382.apk,"READ_SMS, INTERNET",encryptData,32,12,7,2,20824,20,No,1
+app_383.apk,"INTERNET, CAMERA",sendTextMessage,47,19,2,0,23367,94,Yes,0
+app_384.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO","encryptData, getDeviceId, sendTextMessage, getLastKnownLocation",22,6,5,3,703,13,Yes,0
+app_385.apk,"READ_SMS, CAMERA, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO","getDeviceId, sendTextMessage",23,2,4,4,17044,80,No,0
+app_386.apk,"RECORD_AUDIO, READ_SMS","getLastKnownLocation, getDeviceId, sendTextMessage",2,12,8,4,16399,35,No,0
+app_387.apk,"CAMERA, READ_SMS, ACCESS_FINE_LOCATION, INTERNET","readContacts, getLastKnownLocation, getDeviceId",27,19,2,4,29563,59,Yes,1
+app_388.apk,"ACCESS_FINE_LOCATION, READ_SMS, INTERNET, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE",getLastKnownLocation,42,5,6,1,25844,21,No,0
+app_389.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, RECORD_AUDIO","encryptData, getDeviceId, readContacts",2,12,5,0,4248,90,Yes,1
+app_390.apk,"CAMERA, ACCESS_FINE_LOCATION, INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, readContacts",26,17,2,3,39986,84,Yes,0
+app_391.apk,"CAMERA, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","encryptData, getDeviceId, getLastKnownLocation, readContacts",17,17,1,1,1593,74,No,0
+app_392.apk,"READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA","sendTextMessage, encryptData, getLastKnownLocation, readContacts",40,10,8,2,15728,56,Yes,1
+app_393.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO, INTERNET","encryptData, getDeviceId, getLastKnownLocation, sendTextMessage",33,17,2,3,21384,62,Yes,0
+app_394.apk,"READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET","readContacts, getDeviceId, encryptData",9,15,7,3,25683,80,Yes,0
+app_395.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA, ACCESS_FINE_LOCATION","getLastKnownLocation, getDeviceId, encryptData",43,12,9,3,16534,11,No,0
+app_396.apk,"CAMERA, INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getDeviceId, getLastKnownLocation, sendTextMessage",48,16,9,4,6210,33,No,0
+app_397.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","readContacts, encryptData",39,19,8,3,43000,13,No,0
+app_398.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","readContacts, getDeviceId",29,8,9,0,19759,28,No,1
+app_399.apk,"ACCESS_FINE_LOCATION, CAMERA, INTERNET, READ_SMS","getLastKnownLocation, getDeviceId, sendTextMessage",42,17,2,3,36459,35,Yes,0
+app_400.apk,"ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA","getDeviceId, encryptData, readContacts, sendTextMessage",26,5,6,4,33957,84,No,0
+app_401.apk,"CAMERA, INTERNET","getLastKnownLocation, sendTextMessage, readContacts, encryptData",35,16,4,3,20643,49,No,1
+app_402.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA, INTERNET, READ_SMS","getDeviceId, getLastKnownLocation",25,6,4,2,2603,59,No,0
+app_403.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO",sendTextMessage,24,8,5,2,865,52,No,1
+app_404.apk,"CAMERA, INTERNET, RECORD_AUDIO",encryptData,13,18,3,4,47278,84,Yes,0
+app_405.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA, READ_SMS, RECORD_AUDIO",encryptData,7,12,1,0,45035,76,Yes,0
+app_406.apk,"RECORD_AUDIO, CAMERA, READ_SMS, INTERNET","sendTextMessage, getLastKnownLocation",36,15,8,0,16603,21,Yes,1
+app_407.apk,"RECORD_AUDIO, INTERNET, READ_SMS","readContacts, getLastKnownLocation, sendTextMessage, getDeviceId",45,9,5,1,33010,76,No,0
+app_408.apk,"CAMERA, INTERNET, WRITE_EXTERNAL_STORAGE",readContacts,20,13,3,4,24976,36,No,1
+app_409.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS","sendTextMessage, getDeviceId",1,15,7,3,13242,63,Yes,0
+app_410.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS","encryptData, getDeviceId, readContacts, sendTextMessage",8,10,7,4,12891,75,No,0
+app_411.apk,"CAMERA, READ_SMS",readContacts,46,16,1,1,37440,58,No,0
+app_412.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA",getLastKnownLocation,16,7,9,4,29401,25,Yes,0
+app_413.apk,"READ_SMS, CAMERA, ACCESS_FINE_LOCATION","getDeviceId, readContacts, getLastKnownLocation, sendTextMessage",14,17,2,4,32501,11,Yes,1
+app_414.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, ACCESS_FINE_LOCATION",readContacts,12,7,5,1,16123,69,No,0
+app_415.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA","sendTextMessage, getLastKnownLocation, getDeviceId",23,14,5,0,2878,63,No,1
+app_416.apk,"WRITE_EXTERNAL_STORAGE, INTERNET","getLastKnownLocation, readContacts",15,15,8,3,21872,39,No,1
+app_417.apk,"INTERNET, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","encryptData, getDeviceId, sendTextMessage",28,7,8,1,45299,93,Yes,0
+app_418.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","sendTextMessage, getLastKnownLocation",34,9,7,2,38937,47,Yes,0
+app_419.apk,"READ_SMS, INTERNET",getDeviceId,2,19,7,0,36003,37,Yes,1
+app_420.apk,"INTERNET, READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE",sendTextMessage,32,16,6,2,31246,34,Yes,1
+app_421.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET","readContacts, getLastKnownLocation, sendTextMessage",23,8,6,0,28423,19,No,0
+app_422.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS","getLastKnownLocation, sendTextMessage",22,18,9,3,10367,69,Yes,0
+app_423.apk,"CAMERA, RECORD_AUDIO","getDeviceId, getLastKnownLocation",25,18,6,3,41758,51,Yes,0
+app_424.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","readContacts, encryptData, getDeviceId",22,7,2,4,34224,49,No,1
+app_425.apk,"RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, READ_SMS","getDeviceId, encryptData",22,3,2,2,9806,86,No,0
+app_426.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",getDeviceId,49,18,5,0,39891,51,No,1
+app_427.apk,"RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION, CAMERA","getDeviceId, readContacts, sendTextMessage, getLastKnownLocation",42,10,4,3,15408,56,Yes,0
+app_428.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","readContacts, encryptData",6,7,2,1,27581,46,No,0
+app_429.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, readContacts, getDeviceId",15,17,3,3,37728,89,No,0
+app_430.apk,"INTERNET, READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",encryptData,43,14,7,1,23886,31,Yes,0
+app_431.apk,"ACCESS_FINE_LOCATION, INTERNET, READ_SMS, RECORD_AUDIO","getDeviceId, encryptData",37,3,8,0,47254,66,Yes,0
+app_432.apk,"READ_SMS, INTERNET",encryptData,33,12,6,3,45906,93,No,0
+app_433.apk,"CAMERA, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, readContacts, getDeviceId",8,13,5,3,28802,36,Yes,0
+app_434.apk,"CAMERA, READ_SMS","sendTextMessage, getLastKnownLocation",44,2,1,0,19712,50,No,0
+app_435.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, CAMERA, RECORD_AUDIO","encryptData, sendTextMessage, getLastKnownLocation",44,3,8,3,36118,89,No,0
+app_436.apk,"INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, encryptData, sendTextMessage",5,5,3,1,46567,43,Yes,1
+app_437.apk,"ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE",getDeviceId,39,11,6,3,11198,41,No,0
+app_438.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, CAMERA, RECORD_AUDIO","getDeviceId, getLastKnownLocation, sendTextMessage, encryptData",4,8,3,2,5094,99,Yes,0
+app_439.apk,"CAMERA, READ_SMS","getLastKnownLocation, readContacts",6,12,7,4,26025,98,Yes,0
+app_440.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, CAMERA","readContacts, getDeviceId",45,7,7,1,14782,75,Yes,1
+app_441.apk,"ACCESS_FINE_LOCATION, INTERNET","getDeviceId, getLastKnownLocation, encryptData, readContacts",32,15,9,2,49553,21,No,0
+app_442.apk,"RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION, INTERNET","readContacts, encryptData, sendTextMessage",30,17,5,0,14834,49,Yes,1
+app_443.apk,"ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, readContacts, getLastKnownLocation, getDeviceId",47,4,8,1,29679,82,Yes,1
+app_444.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, getDeviceId, sendTextMessage, readContacts",35,13,8,4,7144,85,No,1
+app_445.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation, readContacts, getDeviceId",40,18,1,4,36118,99,No,0
+app_446.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO","getDeviceId, encryptData",16,1,5,0,48201,82,No,1
+app_447.apk,"READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION",readContacts,13,16,3,0,33433,19,No,0
+app_448.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, getDeviceId, sendTextMessage, encryptData",42,13,1,1,43969,57,Yes,0
+app_449.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA","encryptData, getDeviceId, getLastKnownLocation",30,10,4,3,34187,29,Yes,1
+app_450.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO",readContacts,19,12,8,0,41573,48,Yes,0
+app_451.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","getLastKnownLocation, encryptData, readContacts, getDeviceId",17,2,3,3,17875,69,No,1
+app_452.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS",sendTextMessage,19,3,2,2,48983,75,No,0
+app_453.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS, INTERNET","readContacts, getDeviceId",28,10,9,4,31426,74,Yes,1
+app_454.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","sendTextMessage, encryptData",26,2,5,3,37107,60,No,0
+app_455.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, INTERNET","encryptData, readContacts, getDeviceId",37,13,7,4,18142,45,No,0
+app_456.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION","getLastKnownLocation, readContacts",26,13,2,3,24493,33,Yes,0
+app_457.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION","encryptData, getLastKnownLocation, getDeviceId",23,18,9,2,44886,36,Yes,1
+app_458.apk,"RECORD_AUDIO, INTERNET, CAMERA",readContacts,9,3,9,0,46787,11,No,0
+app_459.apk,"INTERNET, CAMERA","sendTextMessage, getLastKnownLocation, getDeviceId, readContacts",12,7,4,2,21688,40,No,0
+app_460.apk,"READ_SMS, ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA",getDeviceId,1,14,4,0,33096,66,No,0
+app_461.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, CAMERA","getDeviceId, getLastKnownLocation, readContacts",1,17,6,0,28272,87,Yes,1
+app_462.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS","encryptData, readContacts",47,12,6,4,31357,75,Yes,0
+app_463.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, CAMERA, INTERNET","encryptData, readContacts, sendTextMessage",34,16,1,2,11276,38,Yes,0
+app_464.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",32,12,9,3,33335,24,Yes,0
+app_465.apk,"INTERNET, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","sendTextMessage, readContacts, getLastKnownLocation, encryptData",48,15,2,2,10288,21,Yes,0
+app_466.apk,"READ_SMS, RECORD_AUDIO, INTERNET","encryptData, sendTextMessage, readContacts",25,10,5,4,6160,37,No,0
+app_467.apk,"READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, INTERNET","sendTextMessage, getDeviceId",40,7,9,0,4978,93,No,0
+app_468.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET",getDeviceId,45,5,4,4,8710,33,No,1
+app_469.apk,"INTERNET, READ_SMS, CAMERA, RECORD_AUDIO","encryptData, readContacts",1,1,3,1,11422,30,Yes,0
+app_470.apk,"READ_SMS, ACCESS_FINE_LOCATION","getDeviceId, sendTextMessage",16,17,7,1,36789,19,Yes,0
+app_471.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET, CAMERA","encryptData, readContacts, getLastKnownLocation, getDeviceId",39,3,6,3,33840,87,Yes,0
+app_472.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, CAMERA","readContacts, encryptData, getLastKnownLocation, sendTextMessage",5,13,8,4,40350,27,No,1
+app_473.apk,"INTERNET, CAMERA, RECORD_AUDIO","getLastKnownLocation, sendTextMessage, getDeviceId, encryptData",22,14,3,3,38663,97,Yes,1
+app_474.apk,"CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION",readContacts,29,18,5,3,48675,23,Yes,1
+app_475.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, READ_SMS","sendTextMessage, getLastKnownLocation, readContacts, encryptData",3,4,4,1,19142,43,No,0
+app_476.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET",getDeviceId,12,18,4,3,11594,67,Yes,0
+app_477.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA","getLastKnownLocation, getDeviceId, readContacts, sendTextMessage",26,5,4,1,22923,85,No,0
+app_478.apk,"READ_SMS, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION",sendTextMessage,16,16,8,0,33918,31,Yes,0
+app_479.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET","encryptData, getDeviceId, getLastKnownLocation",37,1,6,4,6241,79,Yes,0
+app_480.apk,"INTERNET, CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE",sendTextMessage,22,14,3,3,46549,45,No,1
+app_481.apk,"CAMERA, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","getDeviceId, getLastKnownLocation, encryptData, readContacts",29,15,5,1,7338,54,No,1
+app_482.apk,"READ_SMS, RECORD_AUDIO","readContacts, getDeviceId, sendTextMessage",14,9,6,2,3762,45,No,1
+app_483.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA, INTERNET","readContacts, encryptData, getLastKnownLocation, sendTextMessage",28,15,5,3,5496,31,No,0
+app_484.apk,"INTERNET, CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, readContacts, sendTextMessage, getDeviceId",5,17,6,0,45094,87,No,1
+app_485.apk,"RECORD_AUDIO, READ_SMS, INTERNET, CAMERA, ACCESS_FINE_LOCATION",readContacts,47,4,8,0,22664,89,No,0
+app_486.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO, READ_SMS","readContacts, getLastKnownLocation, getDeviceId",49,12,7,2,36095,70,Yes,0
+app_487.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, INTERNET","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",30,5,5,1,30757,65,Yes,1
+app_488.apk,"INTERNET, RECORD_AUDIO","readContacts, getDeviceId, sendTextMessage",46,5,6,3,14711,98,No,0
+app_489.apk,"READ_SMS, INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, sendTextMessage, getLastKnownLocation, readContacts",5,11,4,1,30953,42,Yes,0
+app_490.apk,"ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, sendTextMessage, readContacts",12,6,9,0,5732,54,No,0
+app_491.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, INTERNET","getLastKnownLocation, readContacts, getDeviceId",16,7,4,1,2717,45,Yes,1
+app_492.apk,"RECORD_AUDIO, INTERNET, CAMERA, READ_SMS",readContacts,26,14,1,0,24729,29,No,1
+app_493.apk,"ACCESS_FINE_LOCATION, READ_SMS","readContacts, sendTextMessage",26,11,7,1,14732,27,Yes,0
+app_494.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","getLastKnownLocation, sendTextMessage, encryptData, getDeviceId",48,13,7,2,26113,47,Yes,1
+app_495.apk,"RECORD_AUDIO, READ_SMS","sendTextMessage, getDeviceId, readContacts, encryptData",21,2,4,4,14526,76,Yes,0
+app_496.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO, CAMERA","readContacts, sendTextMessage",39,7,3,2,29054,32,Yes,0
+app_497.apk,"INTERNET, ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, readContacts, getDeviceId, sendTextMessage",36,4,8,2,31408,25,Yes,1
+app_498.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA","sendTextMessage, getLastKnownLocation",33,8,5,4,20110,68,No,1
+app_499.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION",getLastKnownLocation,30,19,7,4,47146,78,No,1
+app_500.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO",getDeviceId,37,13,4,3,40105,77,No,0
+app_501.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET","encryptData, readContacts",23,14,4,3,7531,30,Yes,1
+app_502.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, readContacts, getDeviceId",10,10,8,2,48074,87,No,1
+app_503.apk,"RECORD_AUDIO, INTERNET","encryptData, readContacts, sendTextMessage, getDeviceId",5,11,8,2,26015,87,Yes,1
+app_504.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET","getDeviceId, getLastKnownLocation, sendTextMessage, encryptData",36,2,2,0,36984,79,Yes,0
+app_505.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO","readContacts, getDeviceId, encryptData",34,9,2,0,36682,21,Yes,1
+app_506.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","encryptData, getLastKnownLocation, sendTextMessage",31,17,3,3,1070,25,No,0
+app_507.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, INTERNET","getLastKnownLocation, getDeviceId, sendTextMessage",10,3,3,3,32754,90,Yes,0
+app_508.apk,"RECORD_AUDIO, INTERNET","encryptData, sendTextMessage, getLastKnownLocation, getDeviceId",19,6,1,0,19788,96,No,0
+app_509.apk,"CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, getLastKnownLocation, encryptData",32,5,3,0,13788,23,No,0
+app_510.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",getDeviceId,1,5,6,1,30377,70,Yes,0
+app_511.apk,"CAMERA, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE",getDeviceId,5,15,8,1,19389,80,Yes,1
+app_512.apk,"READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","getDeviceId, readContacts, getLastKnownLocation, sendTextMessage",45,17,6,0,1417,55,No,0
+app_513.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, getLastKnownLocation, readContacts",4,9,5,1,10566,41,No,1
+app_514.apk,"RECORD_AUDIO, READ_SMS, CAMERA","getDeviceId, readContacts",16,3,4,4,30004,24,No,0
+app_515.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET",getDeviceId,24,17,3,3,7482,53,No,0
+app_516.apk,"CAMERA, RECORD_AUDIO, READ_SMS","readContacts, getDeviceId",16,10,4,3,39604,26,No,0
+app_517.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, INTERNET",getDeviceId,2,3,7,0,18562,50,No,0
+app_518.apk,"INTERNET, ACCESS_FINE_LOCATION, READ_SMS","encryptData, sendTextMessage",49,18,1,2,17499,63,Yes,0
+app_519.apk,"READ_SMS, INTERNET, CAMERA",sendTextMessage,28,18,7,0,10441,53,No,0
+app_520.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, readContacts",32,17,1,1,23970,14,No,0
+app_521.apk,"INTERNET, RECORD_AUDIO",encryptData,27,3,2,2,45648,36,No,0
+app_522.apk,"CAMERA, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation, sendTextMessage",20,3,4,1,21633,96,No,0
+app_523.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getDeviceId, getLastKnownLocation",24,6,1,4,44935,87,Yes,0
+app_524.apk,"INTERNET, CAMERA",encryptData,12,13,9,1,5029,88,Yes,0
+app_525.apk,"ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","getLastKnownLocation, getDeviceId, sendTextMessage, readContacts",35,15,6,4,18019,52,No,1
+app_526.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION","encryptData, getDeviceId",33,9,1,4,12692,40,No,1
+app_527.apk,"INTERNET, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, encryptData, getDeviceId, readContacts",33,4,1,1,9066,26,No,1
+app_528.apk,"ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE",sendTextMessage,43,14,6,1,7726,92,Yes,0
+app_529.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","sendTextMessage, getDeviceId, readContacts, getLastKnownLocation",37,5,4,4,38430,63,Yes,1
+app_530.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",getDeviceId,12,2,4,2,49858,71,Yes,1
+app_531.apk,"READ_SMS, ACCESS_FINE_LOCATION",getDeviceId,3,11,6,4,21759,96,Yes,1
+app_532.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, getDeviceId, sendTextMessage",1,9,7,3,34587,41,Yes,0
+app_533.apk,"ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO, CAMERA","getDeviceId, readContacts",33,3,9,4,1641,49,Yes,1
+app_534.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION","getLastKnownLocation, sendTextMessage, readContacts, encryptData",40,9,5,2,5127,22,No,1
+app_535.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","readContacts, getDeviceId, getLastKnownLocation, sendTextMessage",10,3,9,3,47769,93,Yes,0
+app_536.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, CAMERA","encryptData, readContacts, getLastKnownLocation, getDeviceId",43,2,4,0,3190,44,Yes,1
+app_537.apk,"INTERNET, READ_SMS, CAMERA, RECORD_AUDIO","getDeviceId, encryptData",44,12,2,0,40591,14,No,0
+app_538.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","getDeviceId, getLastKnownLocation, sendTextMessage, encryptData",29,10,3,2,3755,82,Yes,0
+app_539.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO","getDeviceId, readContacts, sendTextMessage, getLastKnownLocation",13,9,1,4,5713,38,No,0
+app_540.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET",encryptData,12,15,6,1,37376,79,Yes,1
+app_541.apk,"INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, readContacts, getLastKnownLocation",31,8,6,2,19904,34,No,0
+app_542.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION",encryptData,46,5,1,3,25880,31,No,0
+app_543.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, INTERNET","getLastKnownLocation, encryptData",2,11,3,3,26020,75,No,0
+app_544.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION",getLastKnownLocation,35,2,5,0,19673,54,No,0
+app_545.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION","getDeviceId, encryptData, getLastKnownLocation, readContacts",23,15,3,3,24489,78,No,0
+app_546.apk,"ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE","getDeviceId, sendTextMessage",17,6,3,2,43070,98,Yes,1
+app_547.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO",readContacts,26,8,3,3,25019,81,Yes,1
+app_548.apk,"RECORD_AUDIO, INTERNET, CAMERA","encryptData, readContacts",8,5,5,2,22939,10,No,0
+app_549.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET",readContacts,29,16,5,1,11913,93,No,0
+app_550.apk,"INTERNET, READ_SMS, RECORD_AUDIO","encryptData, readContacts, getDeviceId",26,18,4,0,15495,53,No,0
+app_551.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO",getLastKnownLocation,10,6,1,3,24059,96,Yes,1
+app_552.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA",getLastKnownLocation,26,5,5,2,45851,84,No,0
+app_553.apk,"INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA",encryptData,34,16,5,4,24013,48,No,0
+app_554.apk,"WRITE_EXTERNAL_STORAGE, CAMERA",sendTextMessage,41,13,4,0,5521,63,No,0
+app_555.apk,"RECORD_AUDIO, CAMERA","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",7,5,6,1,32964,97,No,1
+app_556.apk,"ACCESS_FINE_LOCATION, INTERNET",getDeviceId,4,13,4,2,21619,84,Yes,1
+app_557.apk,"CAMERA, INTERNET, RECORD_AUDIO","encryptData, getDeviceId",45,17,7,1,29799,38,No,1
+app_558.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS","readContacts, getDeviceId, encryptData, getLastKnownLocation",11,18,7,1,39850,63,No,1
+app_559.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO",sendTextMessage,29,8,2,3,46723,99,Yes,0
+app_560.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET",getLastKnownLocation,36,13,3,3,26017,25,No,0
+app_561.apk,"CAMERA, WRITE_EXTERNAL_STORAGE",encryptData,25,19,1,2,13617,29,No,0
+app_562.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, RECORD_AUDIO","readContacts, getDeviceId",21,3,8,4,22750,55,Yes,0
+app_563.apk,"INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION",getDeviceId,36,8,9,2,19450,76,Yes,0
+app_564.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS","readContacts, sendTextMessage, getDeviceId, getLastKnownLocation",10,2,4,4,17859,74,Yes,0
+app_565.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, INTERNET","getLastKnownLocation, encryptData, sendTextMessage, getDeviceId",37,8,6,1,24096,67,No,0
+app_566.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS, CAMERA","getLastKnownLocation, sendTextMessage",9,13,9,0,26030,62,No,1
+app_567.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",readContacts,24,13,6,2,1762,10,Yes,1
+app_568.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","getLastKnownLocation, getDeviceId",35,1,9,2,40650,90,Yes,1
+app_569.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",getLastKnownLocation,49,6,4,4,23115,75,Yes,1
+app_570.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION","encryptData, sendTextMessage",35,19,8,1,3827,38,No,0
+app_571.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, encryptData",48,16,9,1,30268,93,No,1
+app_572.apk,"CAMERA, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","readContacts, getDeviceId",36,8,4,4,29350,79,Yes,0
+app_573.apk,"INTERNET, READ_SMS","getDeviceId, encryptData",18,1,5,1,43288,17,No,1
+app_574.apk,"INTERNET, WRITE_EXTERNAL_STORAGE","getDeviceId, encryptData",49,16,8,3,17348,38,Yes,0
+app_575.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA",getDeviceId,39,9,6,0,47330,60,No,1
+app_576.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS",sendTextMessage,32,13,7,2,40042,42,No,0
+app_577.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, CAMERA",readContacts,24,11,3,0,15660,12,No,0
+app_578.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS","encryptData, readContacts, getLastKnownLocation",23,13,7,2,34498,69,No,1
+app_579.apk,"CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, readContacts",32,10,8,3,27730,44,Yes,0
+app_580.apk,"CAMERA, READ_SMS, ACCESS_FINE_LOCATION","readContacts, encryptData, sendTextMessage",37,4,6,1,9576,78,No,1
+app_581.apk,"CAMERA, READ_SMS, ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, getDeviceId",12,6,9,4,4305,85,No,1
+app_582.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","encryptData, getDeviceId",49,7,6,3,31585,93,Yes,1
+app_583.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO","getLastKnownLocation, encryptData, getDeviceId",13,5,9,0,15215,29,No,1
+app_584.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId",23,11,4,4,6250,82,Yes,1
+app_585.apk,"INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS",readContacts,25,13,8,1,48895,48,Yes,0
+app_586.apk,"READ_SMS, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","readContacts, sendTextMessage, encryptData",35,19,4,3,13732,13,No,1
+app_587.apk,"ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA","getLastKnownLocation, getDeviceId",41,10,2,4,36403,28,No,1
+app_588.apk,"CAMERA, INTERNET, ACCESS_FINE_LOCATION","getDeviceId, sendTextMessage",30,10,9,3,7453,54,Yes,1
+app_589.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, READ_SMS","encryptData, sendTextMessage, getDeviceId, getLastKnownLocation",17,11,5,3,32593,52,Yes,0
+app_590.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE",getLastKnownLocation,49,7,4,1,26000,22,Yes,1
+app_591.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","sendTextMessage, encryptData, readContacts",20,18,2,2,22918,22,No,1
+app_592.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS, INTERNET","readContacts, encryptData, getDeviceId",48,4,1,4,34814,69,Yes,1
+app_593.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS, RECORD_AUDIO",getDeviceId,25,2,7,1,48725,66,Yes,0
+app_594.apk,"INTERNET, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","sendTextMessage, getDeviceId",22,14,6,3,22949,95,Yes,0
+app_595.apk,"INTERNET, CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","readContacts, getDeviceId, encryptData, getLastKnownLocation",13,13,2,1,17978,61,No,0
+app_596.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, INTERNET, RECORD_AUDIO","readContacts, getLastKnownLocation, sendTextMessage, getDeviceId",19,12,8,2,35679,62,Yes,1
+app_597.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, getDeviceId, readContacts",49,7,4,4,47381,95,No,1
+app_598.apk,"CAMERA, INTERNET, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getDeviceId, sendTextMessage",36,2,8,2,25838,52,No,0
+app_599.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS, INTERNET","sendTextMessage, encryptData, getDeviceId, getLastKnownLocation",12,13,7,0,27399,92,Yes,0
+app_600.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","readContacts, encryptData, getDeviceId, sendTextMessage",41,14,5,4,4645,81,No,0
+app_601.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, encryptData",19,17,8,2,32601,81,Yes,0
+app_602.apk,"ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation",12,9,9,3,3275,51,No,1
+app_603.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION","encryptData, sendTextMessage",9,17,5,4,46461,99,No,1
+app_604.apk,"READ_SMS, CAMERA, INTERNET, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, sendTextMessage, encryptData",7,8,5,4,32147,35,Yes,0
+app_605.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION","getDeviceId, readContacts",28,2,2,1,46119,32,Yes,0
+app_606.apk,"ACCESS_FINE_LOCATION, READ_SMS, CAMERA","sendTextMessage, getDeviceId, readContacts",14,13,5,3,46338,52,Yes,0
+app_607.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE","encryptData, sendTextMessage, readContacts, getDeviceId",31,3,3,0,20039,86,No,1
+app_608.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, getLastKnownLocation",19,16,7,2,37238,37,No,0
+app_609.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET","readContacts, sendTextMessage",47,6,5,1,27116,18,Yes,0
+app_610.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO",encryptData,16,19,8,2,14619,29,Yes,0
+app_611.apk,"INTERNET, READ_SMS","sendTextMessage, encryptData, readContacts, getLastKnownLocation",5,7,1,0,25659,65,No,1
+app_612.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA",encryptData,35,10,3,0,37599,92,No,1
+app_613.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","sendTextMessage, getLastKnownLocation",12,9,3,4,10795,48,No,1
+app_614.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",25,2,9,0,35210,60,Yes,0
+app_615.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE",encryptData,21,15,5,2,25185,21,No,0
+app_616.apk,"ACCESS_FINE_LOCATION, CAMERA",getDeviceId,36,5,9,3,49843,88,Yes,0
+app_617.apk,"ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS","readContacts, getDeviceId, sendTextMessage, getLastKnownLocation",23,4,9,3,25979,64,No,1
+app_618.apk,"READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getDeviceId, encryptData, sendTextMessage, readContacts",16,4,1,4,46672,87,No,0
+app_619.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS",readContacts,39,18,2,2,34129,20,Yes,0
+app_620.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO",encryptData,45,4,5,2,42543,35,Yes,1
+app_621.apk,"CAMERA, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, getLastKnownLocation",42,17,4,0,17533,51,Yes,1
+app_622.apk,"CAMERA, READ_SMS","sendTextMessage, getDeviceId, encryptData",39,12,9,2,37402,36,No,0
+app_623.apk,"RECORD_AUDIO, INTERNET","getLastKnownLocation, sendTextMessage, readContacts, encryptData",14,17,7,1,45071,20,No,0
+app_624.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO",encryptData,31,10,6,0,15908,47,No,0
+app_625.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA","sendTextMessage, encryptData, getDeviceId, readContacts",5,1,7,1,17920,52,Yes,1
+app_626.apk,"RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION","getDeviceId, readContacts, sendTextMessage, getLastKnownLocation",35,18,1,4,16851,28,No,1
+app_627.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION, READ_SMS",getLastKnownLocation,23,18,1,3,4631,73,Yes,0
+app_628.apk,"CAMERA, INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO","getLastKnownLocation, sendTextMessage, readContacts, getDeviceId",29,14,8,4,45325,15,Yes,0
+app_629.apk,"WRITE_EXTERNAL_STORAGE, INTERNET","getDeviceId, getLastKnownLocation, readContacts",43,15,2,3,11849,55,Yes,1
+app_630.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION, CAMERA",encryptData,11,12,9,4,44754,51,No,1
+app_631.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","encryptData, getDeviceId, sendTextMessage",18,4,7,2,38725,74,No,0
+app_632.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA, INTERNET, READ_SMS","sendTextMessage, getDeviceId, getLastKnownLocation",47,3,6,1,39347,81,Yes,0
+app_633.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS, ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, getLastKnownLocation",12,12,1,3,12953,68,No,0
+app_634.apk,"READ_SMS, CAMERA, INTERNET","readContacts, getDeviceId",9,7,1,0,19314,61,Yes,0
+app_635.apk,"CAMERA, INTERNET, READ_SMS, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",10,11,2,1,18763,56,Yes,1
+app_636.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO","getLastKnownLocation, readContacts, encryptData",44,1,6,0,12658,16,No,1
+app_637.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO","getLastKnownLocation, getDeviceId, encryptData, sendTextMessage",17,6,6,1,16235,20,Yes,1
+app_638.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET","encryptData, readContacts, getLastKnownLocation",38,15,2,1,16330,70,Yes,0
+app_639.apk,"ACCESS_FINE_LOCATION, READ_SMS, INTERNET",encryptData,7,15,1,4,48393,77,No,1
+app_640.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA","encryptData, getLastKnownLocation, readContacts",46,19,5,3,45173,34,Yes,0
+app_641.apk,"CAMERA, ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO",sendTextMessage,13,11,5,3,24426,21,Yes,0
+app_642.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET, READ_SMS","getDeviceId, readContacts, sendTextMessage, encryptData",40,2,2,1,45566,35,Yes,0
+app_643.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","getDeviceId, readContacts, encryptData",42,14,6,2,35279,21,Yes,0
+app_644.apk,"INTERNET, READ_SMS","getDeviceId, sendTextMessage, encryptData",9,2,9,2,3873,52,Yes,1
+app_645.apk,"READ_SMS, INTERNET","sendTextMessage, getDeviceId",27,4,2,0,10835,60,Yes,0
+app_646.apk,"INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","encryptData, sendTextMessage, readContacts",2,17,2,0,24241,46,Yes,0
+app_647.apk,"WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, readContacts, getLastKnownLocation",5,3,3,4,11192,55,No,0
+app_648.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA, RECORD_AUDIO",getLastKnownLocation,29,13,7,1,47795,62,No,0
+app_649.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION, CAMERA, READ_SMS","getDeviceId, readContacts",37,9,6,0,46041,97,Yes,0
+app_650.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS, INTERNET","readContacts, getLastKnownLocation",38,7,8,0,34557,89,Yes,0
+app_651.apk,"ACCESS_FINE_LOCATION, CAMERA","readContacts, getLastKnownLocation, encryptData, sendTextMessage",19,15,8,1,1947,22,No,1
+app_652.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS","readContacts, encryptData, sendTextMessage, getLastKnownLocation",8,11,6,4,20083,98,No,0
+app_653.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, READ_SMS","getLastKnownLocation, sendTextMessage",48,2,3,0,23265,63,No,0
+app_654.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS","sendTextMessage, encryptData, readContacts",45,15,3,4,24406,66,No,0
+app_655.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION","getDeviceId, sendTextMessage, encryptData",1,14,1,3,20067,13,No,1
+app_656.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION","encryptData, sendTextMessage, getLastKnownLocation",22,11,7,4,14639,84,Yes,0
+app_657.apk,"INTERNET, ACCESS_FINE_LOCATION","readContacts, getLastKnownLocation",17,3,5,2,47025,58,No,0
+app_658.apk,"READ_SMS, INTERNET","sendTextMessage, readContacts",7,17,4,2,38730,16,No,0
+app_659.apk,"INTERNET, RECORD_AUDIO, READ_SMS","sendTextMessage, getDeviceId",25,12,4,4,20020,20,No,0
+app_660.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",getLastKnownLocation,45,15,4,2,20202,63,Yes,0
+app_661.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION","encryptData, getLastKnownLocation",4,16,6,3,26066,96,Yes,1
+app_662.apk,"ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS","sendTextMessage, readContacts, getLastKnownLocation",36,5,8,1,8157,54,Yes,1
+app_663.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE",getLastKnownLocation,6,6,8,2,38188,32,Yes,0
+app_664.apk,"RECORD_AUDIO, CAMERA","sendTextMessage, getLastKnownLocation, readContacts",31,19,5,2,30634,37,Yes,1
+app_665.apk,"RECORD_AUDIO, READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET","readContacts, getLastKnownLocation",19,5,6,4,10845,66,Yes,1
+app_666.apk,"ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO",getDeviceId,44,3,4,3,41685,35,No,0
+app_667.apk,"READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","encryptData, sendTextMessage, readContacts, getLastKnownLocation",39,1,9,1,27913,34,Yes,0
+app_668.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS","getDeviceId, getLastKnownLocation",27,6,8,4,5708,63,Yes,0
+app_669.apk,"CAMERA, RECORD_AUDIO","encryptData, getLastKnownLocation, readContacts",10,15,1,4,33955,38,No,0
+app_670.apk,"CAMERA, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, READ_SMS","readContacts, encryptData",26,2,2,3,28518,92,Yes,1
+app_671.apk,"ACCESS_FINE_LOCATION, INTERNET","getDeviceId, encryptData, readContacts",19,3,9,1,46491,45,No,1
+app_672.apk,"RECORD_AUDIO, READ_SMS, INTERNET","readContacts, getDeviceId",39,17,8,3,8580,23,No,1
+app_673.apk,"CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, encryptData, getLastKnownLocation",3,12,3,1,22402,87,Yes,1
+app_674.apk,"RECORD_AUDIO, INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation",45,18,8,3,9986,44,No,0
+app_675.apk,"RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, READ_SMS",getLastKnownLocation,13,15,1,4,39362,39,No,0
+app_676.apk,"RECORD_AUDIO, CAMERA",readContacts,28,12,4,4,21658,26,No,1
+app_677.apk,"INTERNET, ACCESS_FINE_LOCATION","readContacts, sendTextMessage",20,16,3,0,40960,76,No,0
+app_678.apk,"INTERNET, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, encryptData",28,8,6,2,44356,89,Yes,1
+app_679.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA","getDeviceId, encryptData, readContacts, sendTextMessage",8,14,7,3,36371,39,No,1
+app_680.apk,"RECORD_AUDIO, READ_SMS","readContacts, getDeviceId, getLastKnownLocation",41,17,4,0,35708,54,Yes,1
+app_681.apk,"ACCESS_FINE_LOCATION, INTERNET","encryptData, sendTextMessage, getLastKnownLocation",39,8,7,2,21019,88,No,1
+app_682.apk,"CAMERA, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS","getLastKnownLocation, encryptData, sendTextMessage, getDeviceId",1,15,9,3,31879,98,No,0
+app_683.apk,"READ_SMS, RECORD_AUDIO","getLastKnownLocation, readContacts, sendTextMessage",3,14,2,1,28878,60,No,1
+app_684.apk,"INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS","readContacts, getDeviceId, encryptData, sendTextMessage",13,18,3,2,40392,56,Yes,1
+app_685.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, getLastKnownLocation, getDeviceId, sendTextMessage",28,7,5,4,14531,62,Yes,0
+app_686.apk,"ACCESS_FINE_LOCATION, READ_SMS, INTERNET","sendTextMessage, getDeviceId, encryptData, getLastKnownLocation",49,3,3,0,15036,73,Yes,1
+app_687.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, getLastKnownLocation, getDeviceId",25,12,8,2,946,47,No,0
+app_688.apk,"CAMERA, RECORD_AUDIO, INTERNET","getDeviceId, readContacts, sendTextMessage, getLastKnownLocation",33,3,8,2,37183,73,No,1
+app_689.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, getLastKnownLocation, getDeviceId",38,14,8,4,49055,96,No,0
+app_690.apk,"ACCESS_FINE_LOCATION, READ_SMS, INTERNET, CAMERA","sendTextMessage, encryptData",6,15,9,3,18118,98,No,0
+app_691.apk,"RECORD_AUDIO, CAMERA, INTERNET, READ_SMS","readContacts, encryptData, getDeviceId",44,14,4,1,7087,16,Yes,0
+app_692.apk,"RECORD_AUDIO, CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation, sendTextMessage",45,7,5,4,31980,31,No,1
+app_693.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","sendTextMessage, getDeviceId, encryptData, getLastKnownLocation",32,17,5,1,33494,90,Yes,0
+app_694.apk,"INTERNET, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, getDeviceId",45,12,8,3,21027,91,No,0
+app_695.apk,"CAMERA, INTERNET, ACCESS_FINE_LOCATION, READ_SMS, RECORD_AUDIO","encryptData, sendTextMessage, readContacts",47,4,7,2,24069,50,Yes,0
+app_696.apk,"READ_SMS, RECORD_AUDIO","getDeviceId, readContacts",21,9,9,1,11651,83,Yes,1
+app_697.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, getDeviceId, getLastKnownLocation",16,6,8,0,6058,19,No,0
+app_698.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION, CAMERA","readContacts, encryptData, getLastKnownLocation",21,16,2,0,45239,66,No,0
+app_699.apk,"WRITE_EXTERNAL_STORAGE, CAMERA","getLastKnownLocation, encryptData, readContacts, getDeviceId",11,2,4,4,33454,16,Yes,1
+app_700.apk,"READ_SMS, INTERNET","readContacts, getDeviceId, sendTextMessage",37,8,6,3,47948,59,No,0
+app_701.apk,"CAMERA, ACCESS_FINE_LOCATION","readContacts, getDeviceId",36,11,2,4,47827,61,No,1
+app_702.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET","getLastKnownLocation, encryptData",35,13,7,4,44337,42,Yes,0
+app_703.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO","getLastKnownLocation, sendTextMessage",19,17,3,4,35803,10,Yes,1
+app_704.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO",getLastKnownLocation,20,8,3,0,35200,62,Yes,0
+app_705.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET","encryptData, getLastKnownLocation, getDeviceId",18,18,2,0,28000,69,Yes,0
+app_706.apk,"RECORD_AUDIO, INTERNET, CAMERA, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, getDeviceId, readContacts",47,18,8,4,2532,43,No,1
+app_707.apk,"CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId",41,14,6,0,1752,13,Yes,0
+app_708.apk,"CAMERA, INTERNET","readContacts, getLastKnownLocation",49,15,1,3,6009,26,Yes,1
+app_709.apk,"INTERNET, ACCESS_FINE_LOCATION","getLastKnownLocation, readContacts, encryptData",14,6,1,4,38342,13,Yes,0
+app_710.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS, CAMERA","getDeviceId, getLastKnownLocation, readContacts",15,11,7,0,14400,52,No,0
+app_711.apk,"INTERNET, READ_SMS, CAMERA, ACCESS_FINE_LOCATION",sendTextMessage,31,13,8,1,15023,99,Yes,0
+app_712.apk,"ACCESS_FINE_LOCATION, READ_SMS, CAMERA, INTERNET","getLastKnownLocation, encryptData, sendTextMessage",1,1,5,4,2381,13,No,1
+app_713.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, getDeviceId, encryptData",3,6,5,4,33537,10,Yes,0
+app_714.apk,"CAMERA, ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE","readContacts, sendTextMessage",16,9,4,3,2130,80,Yes,0
+app_715.apk,"READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, getDeviceId",23,8,6,2,21289,59,No,0
+app_716.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, getDeviceId, readContacts, getLastKnownLocation",11,11,6,2,23023,82,Yes,0
+app_717.apk,"CAMERA, INTERNET",encryptData,12,19,3,3,18458,70,Yes,0
+app_718.apk,"ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, readContacts, getDeviceId",10,9,9,3,46651,44,No,1
+app_719.apk,"INTERNET, RECORD_AUDIO, CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation, getDeviceId, sendTextMessage",32,17,7,3,49420,17,Yes,0
+app_720.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION",getDeviceId,16,12,1,2,44352,33,Yes,1
+app_721.apk,"READ_SMS, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, readContacts",8,14,7,3,2195,92,Yes,0
+app_722.apk,"INTERNET, RECORD_AUDIO","getLastKnownLocation, sendTextMessage",38,15,5,0,15321,45,Yes,1
+app_723.apk,"ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, getDeviceId",12,16,5,4,3762,59,No,1
+app_724.apk,"READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET","getDeviceId, readContacts, encryptData, sendTextMessage",24,1,2,4,1945,52,Yes,0
+app_725.apk,"READ_SMS, INTERNET","getDeviceId, sendTextMessage, readContacts, getLastKnownLocation",28,10,4,1,16936,36,No,1
+app_726.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, ACCESS_FINE_LOCATION",encryptData,8,8,6,1,10449,41,Yes,0
+app_727.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, READ_SMS",getLastKnownLocation,28,18,7,4,24463,87,No,1
+app_728.apk,"INTERNET, CAMERA, ACCESS_FINE_LOCATION",getDeviceId,36,1,5,0,30432,27,Yes,1
+app_729.apk,"INTERNET, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts, encryptData",26,2,9,2,7401,37,No,0
+app_730.apk,"RECORD_AUDIO, CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","readContacts, sendTextMessage",8,1,3,2,33987,38,Yes,0
+app_731.apk,"RECORD_AUDIO, READ_SMS, CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, getDeviceId",28,1,1,0,9097,25,No,0
+app_732.apk,"ACCESS_FINE_LOCATION, CAMERA, INTERNET, READ_SMS, RECORD_AUDIO",sendTextMessage,28,9,4,2,7355,56,No,0
+app_733.apk,"CAMERA, INTERNET","readContacts, getLastKnownLocation, sendTextMessage",37,13,9,3,19178,68,Yes,0
+app_734.apk,"RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA","readContacts, sendTextMessage",41,1,4,4,8763,40,No,0
+app_735.apk,"WRITE_EXTERNAL_STORAGE, INTERNET",getDeviceId,36,13,2,4,47788,13,Yes,0
+app_736.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION",readContacts,27,7,5,0,26305,46,Yes,1
+app_737.apk,"READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, getLastKnownLocation",17,2,3,2,26643,26,Yes,0
+app_738.apk,"RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION","readContacts, getDeviceId",9,6,9,1,12374,48,Yes,0
+app_739.apk,"CAMERA, INTERNET, WRITE_EXTERNAL_STORAGE",sendTextMessage,33,7,4,1,28029,57,Yes,1
+app_740.apk,"INTERNET, CAMERA","getLastKnownLocation, sendTextMessage, encryptData, getDeviceId",20,14,6,2,21366,55,No,0
+app_741.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS","getLastKnownLocation, encryptData",13,18,2,1,14579,99,Yes,0
+app_742.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO, INTERNET","sendTextMessage, readContacts, encryptData, getDeviceId",28,15,6,0,7743,57,Yes,0
+app_743.apk,"ACCESS_FINE_LOCATION, READ_SMS, CAMERA, RECORD_AUDIO","getDeviceId, encryptData, readContacts",48,2,3,0,30372,48,Yes,1
+app_744.apk,"RECORD_AUDIO, READ_SMS, CAMERA","encryptData, getLastKnownLocation",29,10,9,2,9518,13,Yes,1
+app_745.apk,"READ_SMS, INTERNET, CAMERA","readContacts, getDeviceId, encryptData",13,12,2,1,12600,39,Yes,0
+app_746.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA","encryptData, getDeviceId, sendTextMessage",46,17,9,0,49959,39,Yes,1
+app_747.apk,"READ_SMS, INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation, readContacts",35,8,5,0,20300,31,No,0
+app_748.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, readContacts, getLastKnownLocation",6,11,8,3,27410,84,No,1
+app_749.apk,"INTERNET, CAMERA","getDeviceId, encryptData",18,3,2,3,29937,75,Yes,1
+app_750.apk,"CAMERA, INTERNET","sendTextMessage, getDeviceId, getLastKnownLocation",5,6,6,0,38088,21,No,1
+app_751.apk,"INTERNET, ACCESS_FINE_LOCATION, READ_SMS","getDeviceId, encryptData, sendTextMessage, readContacts",47,9,3,2,11501,45,Yes,0
+app_752.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO",sendTextMessage,25,6,5,4,47175,27,Yes,0
+app_753.apk,"CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","encryptData, getDeviceId, getLastKnownLocation, readContacts",2,9,8,4,20442,99,Yes,0
+app_754.apk,"INTERNET, CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",getLastKnownLocation,10,7,1,0,21362,62,Yes,1
+app_755.apk,"CAMERA, INTERNET, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, sendTextMessage",30,9,5,0,12169,80,Yes,0
+app_756.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET","getDeviceId, sendTextMessage, encryptData, getLastKnownLocation",45,18,3,0,16416,10,No,1
+app_757.apk,"INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation, encryptData",5,12,4,2,11378,67,No,1
+app_758.apk,"INTERNET, CAMERA, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, readContacts, sendTextMessage",33,8,2,3,3485,99,No,0
+app_759.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, READ_SMS","readContacts, getLastKnownLocation, getDeviceId, sendTextMessage",1,8,9,0,32869,96,No,1
+app_760.apk,"ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO, CAMERA",getDeviceId,18,18,3,0,8612,99,Yes,1
+app_761.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, readContacts, getDeviceId",32,15,2,1,41735,15,No,1
+app_762.apk,"RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET","getDeviceId, readContacts",47,7,9,2,19431,79,Yes,1
+app_763.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS, INTERNET",getDeviceId,49,11,7,0,27840,53,No,1
+app_764.apk,"INTERNET, CAMERA, READ_SMS, ACCESS_FINE_LOCATION","getDeviceId, sendTextMessage, encryptData, getLastKnownLocation",11,16,6,1,836,81,No,0
+app_765.apk,"CAMERA, READ_SMS, RECORD_AUDIO","getLastKnownLocation, getDeviceId",21,4,1,4,43433,33,No,1
+app_766.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, CAMERA, RECORD_AUDIO",readContacts,26,6,5,0,19863,95,No,0
+app_767.apk,"RECORD_AUDIO, INTERNET, READ_SMS","encryptData, sendTextMessage, readContacts, getLastKnownLocation",25,3,3,0,46036,28,Yes,1
+app_768.apk,"INTERNET, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation, encryptData, sendTextMessage",22,9,1,1,4468,27,No,1
+app_769.apk,"READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION",getDeviceId,27,10,4,2,34178,39,No,0
+app_770.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS, ACCESS_FINE_LOCATION","getDeviceId, encryptData, sendTextMessage, getLastKnownLocation",49,14,2,0,48900,51,Yes,1
+app_771.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, ACCESS_FINE_LOCATION","encryptData, readContacts, getDeviceId, getLastKnownLocation",13,11,2,4,16779,42,Yes,0
+app_772.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation",33,18,3,0,3629,83,No,0
+app_773.apk,"INTERNET, WRITE_EXTERNAL_STORAGE","encryptData, readContacts",34,12,8,4,38715,21,Yes,0
+app_774.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData",41,12,8,3,39397,36,Yes,1
+app_775.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE","getDeviceId, encryptData, getLastKnownLocation, sendTextMessage",35,13,7,3,6350,48,Yes,1
+app_776.apk,"INTERNET, READ_SMS, RECORD_AUDIO","readContacts, sendTextMessage, getLastKnownLocation, getDeviceId",1,13,6,4,21088,18,No,1
+app_777.apk,"CAMERA, RECORD_AUDIO, INTERNET, READ_SMS","getLastKnownLocation, encryptData, readContacts, sendTextMessage",21,19,9,2,40714,30,Yes,0
+app_778.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS","getLastKnownLocation, readContacts, getDeviceId",48,19,4,0,12449,85,No,1
+app_779.apk,"READ_SMS, ACCESS_FINE_LOCATION",readContacts,6,14,1,0,9019,38,No,1
+app_780.apk,"READ_SMS, RECORD_AUDIO",sendTextMessage,28,4,8,3,26875,42,No,0
+app_781.apk,"INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, getDeviceId, readContacts",17,13,7,4,33582,71,No,0
+app_782.apk,"RECORD_AUDIO, READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","encryptData, getDeviceId, sendTextMessage",5,8,7,0,12237,24,Yes,0
+app_783.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, INTERNET","getLastKnownLocation, encryptData, sendTextMessage",31,19,3,0,1634,11,No,1
+app_784.apk,"READ_SMS, RECORD_AUDIO, INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE",sendTextMessage,5,12,4,2,11438,61,Yes,1
+app_785.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET, READ_SMS, ACCESS_FINE_LOCATION","sendTextMessage, getLastKnownLocation",38,18,9,1,24986,53,No,1
+app_786.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA",getDeviceId,3,6,6,3,48856,63,Yes,0
+app_787.apk,"INTERNET, READ_SMS, CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO","getDeviceId, getLastKnownLocation, readContacts",23,18,5,3,26596,27,No,1
+app_788.apk,"INTERNET, CAMERA, READ_SMS, RECORD_AUDIO",readContacts,37,19,3,1,41615,12,Yes,0
+app_789.apk,"READ_SMS, INTERNET","getDeviceId, encryptData, getLastKnownLocation",37,5,9,0,6092,16,No,0
+app_790.apk,"RECORD_AUDIO, CAMERA, READ_SMS","readContacts, encryptData, sendTextMessage, getDeviceId",10,9,5,2,18608,52,No,1
+app_791.apk,"CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, INTERNET","readContacts, getDeviceId, sendTextMessage, getLastKnownLocation",10,3,5,2,17770,91,Yes,0
+app_792.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS","getLastKnownLocation, getDeviceId, sendTextMessage, encryptData",19,10,4,3,28149,47,No,1
+app_793.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA, INTERNET","getLastKnownLocation, encryptData",17,19,4,2,11497,46,No,0
+app_794.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, getLastKnownLocation, readContacts",21,3,1,1,33989,67,No,1
+app_795.apk,"READ_SMS, CAMERA","sendTextMessage, encryptData, getLastKnownLocation, getDeviceId",14,15,7,0,9604,42,Yes,0
+app_796.apk,"READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET","getLastKnownLocation, readContacts",9,1,9,1,1370,68,No,0
+app_797.apk,"ACCESS_FINE_LOCATION, INTERNET, CAMERA",getLastKnownLocation,46,7,3,4,29184,20,No,0
+app_798.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, getLastKnownLocation, encryptData",1,12,2,3,40019,77,Yes,0
+app_799.apk,"RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, getDeviceId, readContacts",45,17,3,2,35024,91,Yes,1
+app_800.apk,"INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION","encryptData, sendTextMessage, readContacts, getDeviceId",13,5,1,4,31457,77,Yes,0
+app_801.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","readContacts, getLastKnownLocation, sendTextMessage",4,4,6,2,34385,97,Yes,1
+app_802.apk,"READ_SMS, INTERNET, CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, readContacts",1,12,7,0,44869,31,Yes,1
+app_803.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, READ_SMS","readContacts, encryptData, getLastKnownLocation",49,18,2,0,36096,75,No,0
+app_804.apk,"CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET","getDeviceId, sendTextMessage",40,17,8,0,30366,53,No,0
+app_805.apk,"INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS","sendTextMessage, encryptData, readContacts, getLastKnownLocation",32,19,6,2,31176,15,No,1
+app_806.apk,"CAMERA, ACCESS_FINE_LOCATION, RECORD_AUDIO, INTERNET",readContacts,34,9,4,4,48264,51,Yes,1
+app_807.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS, CAMERA, INTERNET","getLastKnownLocation, encryptData",28,4,5,0,14378,34,No,1
+app_808.apk,"READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, readContacts",31,2,8,4,40260,66,Yes,0
+app_809.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS","encryptData, readContacts, sendTextMessage",8,4,3,2,28059,94,Yes,1
+app_810.apk,"ACCESS_FINE_LOCATION, READ_SMS, INTERNET, RECORD_AUDIO, CAMERA",sendTextMessage,39,2,3,4,47046,64,No,0
+app_811.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, readContacts, encryptData, getDeviceId",26,15,4,2,7271,25,Yes,1
+app_812.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, READ_SMS","readContacts, sendTextMessage, encryptData",34,2,1,2,17026,23,Yes,1
+app_813.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getDeviceId, sendTextMessage",3,4,9,3,30396,48,No,0
+app_814.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO, READ_SMS","getDeviceId, sendTextMessage",12,6,8,2,32423,37,Yes,0
+app_815.apk,"ACCESS_FINE_LOCATION, CAMERA","encryptData, readContacts, getLastKnownLocation",1,7,8,2,36703,60,Yes,0
+app_816.apk,"CAMERA, ACCESS_FINE_LOCATION, INTERNET","encryptData, getDeviceId, readContacts, getLastKnownLocation",44,10,6,1,39890,58,No,0
+app_817.apk,"INTERNET, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, readContacts",5,19,7,0,13352,18,Yes,1
+app_818.apk,"ACCESS_FINE_LOCATION, CAMERA","readContacts, sendTextMessage, getLastKnownLocation",30,19,6,3,48074,67,Yes,0
+app_819.apk,"INTERNET, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA",encryptData,30,12,9,3,43891,54,No,0
+app_820.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE",getDeviceId,17,3,3,3,2348,31,No,0
+app_821.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET",getLastKnownLocation,48,13,3,1,31527,41,No,1
+app_822.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getDeviceId, encryptData, sendTextMessage",47,18,3,2,35964,78,No,1
+app_823.apk,"CAMERA, ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO, READ_SMS",encryptData,23,8,3,0,34985,96,Yes,0
+app_824.apk,"WRITE_EXTERNAL_STORAGE, CAMERA","sendTextMessage, getDeviceId",15,15,9,4,19956,78,Yes,0
+app_825.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION, INTERNET",readContacts,37,1,4,2,9759,51,No,1
+app_826.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","encryptData, getDeviceId, readContacts",21,3,7,1,36054,62,Yes,1
+app_827.apk,"ACCESS_FINE_LOCATION, INTERNET, RECORD_AUDIO, CAMERA",getLastKnownLocation,14,8,9,2,47422,68,Yes,0
+app_828.apk,"READ_SMS, INTERNET, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","readContacts, encryptData, getLastKnownLocation",2,4,7,2,13909,83,No,0
+app_829.apk,"READ_SMS, CAMERA, RECORD_AUDIO, INTERNET","encryptData, sendTextMessage",11,16,9,1,4291,48,No,0
+app_830.apk,"READ_SMS, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE","getDeviceId, sendTextMessage",39,10,3,3,26364,24,Yes,0
+app_831.apk,"READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO","getLastKnownLocation, encryptData",38,12,4,3,37139,80,No,0
+app_832.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, getDeviceId, sendTextMessage, readContacts",34,14,8,0,35074,38,No,1
+app_833.apk,"INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO",getLastKnownLocation,38,14,6,0,18388,12,No,0
+app_834.apk,"WRITE_EXTERNAL_STORAGE, INTERNET","encryptData, sendTextMessage, readContacts, getDeviceId",34,2,5,3,20192,92,Yes,1
+app_835.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation, sendTextMessage",18,5,4,4,24001,19,No,0
+app_836.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA, ACCESS_FINE_LOCATION, READ_SMS",readContacts,30,5,8,2,13804,38,Yes,1
+app_837.apk,"CAMERA, INTERNET, RECORD_AUDIO",getDeviceId,15,6,1,4,28027,88,Yes,1
+app_838.apk,"CAMERA, READ_SMS, INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, encryptData",27,13,9,2,18574,44,Yes,0
+app_839.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, CAMERA, READ_SMS, RECORD_AUDIO","getLastKnownLocation, getDeviceId, readContacts",34,9,1,3,16049,15,No,0
+app_840.apk,"READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","encryptData, readContacts",38,15,8,0,30463,21,No,1
+app_841.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS",encryptData,33,14,4,0,26420,47,No,0
+app_842.apk,"INTERNET, READ_SMS, CAMERA, RECORD_AUDIO","getLastKnownLocation, getDeviceId, encryptData",24,7,9,4,31326,86,No,0
+app_843.apk,"ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, readContacts, encryptData",15,2,5,0,36571,28,No,0
+app_844.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","encryptData, getDeviceId, sendTextMessage",30,7,3,3,16561,76,Yes,1
+app_845.apk,"RECORD_AUDIO, INTERNET, READ_SMS",encryptData,42,6,9,4,29310,17,Yes,0
+app_846.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION","encryptData, getLastKnownLocation, readContacts, sendTextMessage",17,17,9,2,48466,17,Yes,1
+app_847.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, INTERNET",sendTextMessage,5,2,4,0,23300,93,No,0
+app_848.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, RECORD_AUDIO, INTERNET","readContacts, getDeviceId, sendTextMessage",29,3,4,1,43923,56,Yes,1
+app_849.apk,"READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA, INTERNET","readContacts, getLastKnownLocation, sendTextMessage, getDeviceId",4,5,8,0,42192,13,Yes,0
+app_850.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, READ_SMS",sendTextMessage,10,5,2,2,10440,60,No,1
+app_851.apk,"CAMERA, WRITE_EXTERNAL_STORAGE","sendTextMessage, getDeviceId, readContacts, encryptData",17,1,9,4,4424,94,No,0
+app_852.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS, INTERNET","getLastKnownLocation, getDeviceId, encryptData",10,8,6,2,28554,76,Yes,1
+app_853.apk,"ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, readContacts",17,12,9,1,10283,54,Yes,1
+app_854.apk,"READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, INTERNET","getLastKnownLocation, encryptData, sendTextMessage, getDeviceId",20,4,8,3,37753,17,No,0
+app_855.apk,"INTERNET, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA","sendTextMessage, getLastKnownLocation, readContacts",24,13,7,0,45897,96,No,0
+app_856.apk,"RECORD_AUDIO, READ_SMS, INTERNET, WRITE_EXTERNAL_STORAGE, CAMERA","getDeviceId, encryptData",5,15,1,4,13733,25,No,0
+app_857.apk,"READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET, WRITE_EXTERNAL_STORAGE","sendTextMessage, encryptData, readContacts",34,11,3,3,46169,86,No,0
+app_858.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, readContacts",6,10,2,2,24984,76,Yes,1
+app_859.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION","getDeviceId, encryptData",2,3,5,4,25568,18,Yes,0
+app_860.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET, RECORD_AUDIO","getLastKnownLocation, sendTextMessage",13,14,5,3,691,69,No,0
+app_861.apk,"READ_SMS, CAMERA, ACCESS_FINE_LOCATION",encryptData,43,16,5,4,25574,87,Yes,1
+app_862.apk,"RECORD_AUDIO, READ_SMS, INTERNET","readContacts, getLastKnownLocation, getDeviceId, encryptData",43,10,4,1,5417,86,Yes,0
+app_863.apk,"RECORD_AUDIO, CAMERA, INTERNET, ACCESS_FINE_LOCATION","sendTextMessage, getDeviceId, encryptData",48,10,5,1,39099,80,No,0
+app_864.apk,"RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION","encryptData, readContacts, getDeviceId, getLastKnownLocation",11,12,3,0,26332,24,Yes,0
+app_865.apk,"READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, INTERNET","sendTextMessage, getLastKnownLocation",47,9,1,0,43428,80,Yes,1
+app_866.apk,"ACCESS_FINE_LOCATION, CAMERA","encryptData, readContacts, getDeviceId",23,1,5,1,21206,50,Yes,1
+app_867.apk,"ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, readContacts, encryptData, getDeviceId",16,5,9,4,14182,31,No,1
+app_868.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, getDeviceId, getLastKnownLocation",31,8,9,1,27262,33,No,0
+app_869.apk,"ACCESS_FINE_LOCATION, CAMERA, INTERNET, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, sendTextMessage, readContacts",11,11,4,0,23883,53,Yes,1
+app_870.apk,"READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","sendTextMessage, getLastKnownLocation, encryptData, readContacts",16,12,3,1,28296,10,No,0
+app_871.apk,"READ_SMS, INTERNET, CAMERA",getDeviceId,8,1,1,1,24166,19,No,0
+app_872.apk,"READ_SMS, INTERNET, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, getLastKnownLocation, encryptData, readContacts",4,11,2,4,26162,89,No,0
+app_873.apk,"ACCESS_FINE_LOCATION, READ_SMS","encryptData, readContacts",40,5,8,3,45659,81,Yes,0
+app_874.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, readContacts, getLastKnownLocation",4,15,1,0,35142,65,Yes,0
+app_875.apk,"CAMERA, INTERNET, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE",getDeviceId,25,5,8,4,42330,98,No,0
+app_876.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS","sendTextMessage, encryptData, readContacts",3,12,7,1,38031,59,Yes,0
+app_877.apk,"RECORD_AUDIO, READ_SMS, CAMERA",getDeviceId,32,5,8,1,10734,21,Yes,0
+app_878.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA, READ_SMS","readContacts, encryptData, sendTextMessage",3,17,6,3,9721,98,Yes,1
+app_879.apk,"RECORD_AUDIO, INTERNET","getLastKnownLocation, sendTextMessage, readContacts, getDeviceId",27,17,9,0,11910,90,Yes,0
+app_880.apk,"RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, sendTextMessage",29,12,3,0,15019,69,Yes,1
+app_881.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, encryptData, getDeviceId, readContacts",32,15,4,2,1551,35,No,0
+app_882.apk,"CAMERA, RECORD_AUDIO, READ_SMS","readContacts, encryptData, getDeviceId",19,15,6,0,45493,87,Yes,1
+app_883.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, INTERNET","getDeviceId, getLastKnownLocation, readContacts",21,6,8,3,10265,50,Yes,0
+app_884.apk,"READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO","encryptData, getLastKnownLocation",5,12,5,2,11882,45,Yes,0
+app_885.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA","encryptData, getLastKnownLocation, sendTextMessage",18,18,3,2,13080,32,No,0
+app_886.apk,"INTERNET, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation, sendTextMessage",28,14,6,1,32823,52,No,1
+app_887.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getLastKnownLocation, encryptData",42,2,4,1,45257,15,No,1
+app_888.apk,"CAMERA, READ_SMS, RECORD_AUDIO","readContacts, encryptData",22,9,9,0,12439,78,Yes,0
+app_889.apk,"RECORD_AUDIO, READ_SMS, CAMERA, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION",sendTextMessage,21,5,3,2,30464,52,No,0
+app_890.apk,"RECORD_AUDIO, CAMERA","getDeviceId, sendTextMessage",6,1,4,1,807,34,No,1
+app_891.apk,"RECORD_AUDIO, CAMERA","getDeviceId, encryptData",1,3,7,3,3859,27,No,1
+app_892.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA, READ_SMS, INTERNET","sendTextMessage, encryptData, readContacts",5,6,7,1,30148,71,No,0
+app_893.apk,"RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA",encryptData,41,5,4,1,36444,22,Yes,0
+app_894.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS, RECORD_AUDIO",encryptData,12,5,6,2,34519,52,No,0
+app_895.apk,"ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, encryptData, sendTextMessage",26,1,3,2,38634,87,No,1
+app_896.apk,"CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getDeviceId, sendTextMessage, readContacts, encryptData",46,17,6,4,27823,37,Yes,0
+app_897.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, INTERNET",sendTextMessage,34,19,2,3,6726,27,Yes,1
+app_898.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, CAMERA","sendTextMessage, readContacts, getLastKnownLocation",49,14,8,2,22189,68,No,0
+app_899.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","readContacts, sendTextMessage, getLastKnownLocation",14,12,2,0,31471,69,Yes,0
+app_900.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS",readContacts,26,10,7,3,26454,72,No,0
+app_901.apk,"CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, getDeviceId",45,18,9,3,24923,66,Yes,1
+app_902.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","encryptData, getDeviceId",27,11,1,2,30891,60,Yes,1
+app_903.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","getDeviceId, getLastKnownLocation, encryptData",9,2,8,3,14830,65,No,0
+app_904.apk,"READ_SMS, INTERNET",encryptData,26,18,7,2,5391,36,Yes,1
+app_905.apk,"READ_SMS, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE","readContacts, getDeviceId, sendTextMessage",47,7,6,1,5492,41,No,0
+app_906.apk,"CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts",22,15,6,4,2461,18,Yes,0
+app_907.apk,"ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","encryptData, readContacts, getLastKnownLocation, sendTextMessage",47,11,6,1,12997,93,No,0
+app_908.apk,"INTERNET, RECORD_AUDIO",getLastKnownLocation,30,18,9,2,33051,77,Yes,0
+app_909.apk,"READ_SMS, ACCESS_FINE_LOCATION, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE",readContacts,43,12,2,2,11348,55,Yes,0
+app_910.apk,"READ_SMS, RECORD_AUDIO","getLastKnownLocation, sendTextMessage, getDeviceId, readContacts",48,6,1,1,13755,76,Yes,1
+app_911.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, getDeviceId, readContacts",17,13,6,0,5067,35,Yes,0
+app_912.apk,"READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA",readContacts,26,16,8,0,49347,17,Yes,1
+app_913.apk,"INTERNET, CAMERA","getDeviceId, encryptData, sendTextMessage, readContacts",36,18,3,0,39781,15,No,0
+app_914.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","encryptData, getDeviceId",1,10,1,2,48503,89,Yes,1
+app_915.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA",sendTextMessage,8,8,9,3,20889,33,No,0
+app_916.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA","encryptData, readContacts",49,18,1,2,45023,57,No,0
+app_917.apk,"ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS","sendTextMessage, getDeviceId, readContacts",35,1,3,3,44419,54,No,0
+app_918.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, getLastKnownLocation, readContacts, getDeviceId",15,8,8,1,17067,22,Yes,0
+app_919.apk,"RECORD_AUDIO, READ_SMS, CAMERA","getDeviceId, getLastKnownLocation, encryptData",47,6,3,4,3858,78,No,1
+app_920.apk,"RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS","encryptData, readContacts",22,5,4,3,23499,34,Yes,0
+app_921.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA","encryptData, getLastKnownLocation, readContacts, sendTextMessage",14,15,8,0,42858,29,No,1
+app_922.apk,"RECORD_AUDIO, INTERNET",encryptData,26,15,1,2,11488,91,No,0
+app_923.apk,"ACCESS_FINE_LOCATION, INTERNET, CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS","readContacts, sendTextMessage, encryptData",28,2,6,1,40946,91,No,0
+app_924.apk,"READ_SMS, RECORD_AUDIO, CAMERA","getDeviceId, readContacts, getLastKnownLocation, sendTextMessage",23,1,1,0,32021,75,No,0
+app_925.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, RECORD_AUDIO","sendTextMessage, readContacts, encryptData, getDeviceId",14,11,1,1,6198,83,No,1
+app_926.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","encryptData, readContacts, getDeviceId",24,10,8,4,1773,54,Yes,1
+app_927.apk,"CAMERA, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO","getLastKnownLocation, sendTextMessage, getDeviceId, encryptData",2,18,4,2,28043,56,No,0
+app_928.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS","readContacts, encryptData",45,18,1,2,31849,72,No,0
+app_929.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO","readContacts, getDeviceId, getLastKnownLocation",26,17,7,4,11741,85,Yes,0
+app_930.apk,"CAMERA, WRITE_EXTERNAL_STORAGE",getDeviceId,14,8,5,2,9997,86,Yes,1
+app_931.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, READ_SMS",readContacts,7,15,5,3,42375,64,Yes,1
+app_932.apk,"READ_SMS, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, INTERNET","encryptData, getDeviceId, sendTextMessage, getLastKnownLocation",3,8,1,1,33203,84,No,0
+app_933.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, getDeviceId, readContacts",47,17,6,0,44541,28,No,0
+app_934.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE",getDeviceId,23,12,9,4,32454,44,No,0
+app_935.apk,"CAMERA, READ_SMS, WRITE_EXTERNAL_STORAGE","sendTextMessage, readContacts, encryptData, getDeviceId",46,8,9,3,8502,62,No,1
+app_936.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION",encryptData,43,14,8,0,4747,35,No,0
+app_937.apk,"CAMERA, INTERNET","getLastKnownLocation, encryptData, readContacts",47,4,5,0,42488,23,No,1
+app_938.apk,"INTERNET, ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","readContacts, getLastKnownLocation, sendTextMessage, getDeviceId",45,1,1,4,22198,54,Yes,0
+app_939.apk,"CAMERA, ACCESS_FINE_LOCATION, INTERNET","sendTextMessage, getDeviceId",18,1,9,3,20238,53,Yes,1
+app_940.apk,"INTERNET, READ_SMS, CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION","getDeviceId, encryptData, getLastKnownLocation",38,19,1,0,11203,97,No,1
+app_941.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO",getDeviceId,35,16,8,0,48740,74,No,1
+app_942.apk,"ACCESS_FINE_LOCATION, CAMERA, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts, encryptData, sendTextMessage",15,14,5,3,49922,60,No,1
+app_943.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET, READ_SMS, CAMERA","encryptData, readContacts, sendTextMessage, getLastKnownLocation",25,16,3,2,18070,52,No,1
+app_944.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS","getLastKnownLocation, getDeviceId, encryptData, readContacts",37,5,7,0,12892,95,No,0
+app_945.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO, READ_SMS",sendTextMessage,28,9,7,1,45224,32,Yes,0
+app_946.apk,"READ_SMS, ACCESS_FINE_LOCATION, INTERNET, CAMERA",getDeviceId,10,2,9,3,32799,65,Yes,0
+app_947.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, READ_SMS, ACCESS_FINE_LOCATION, INTERNET","getDeviceId, sendTextMessage",39,18,7,0,16141,28,No,1
+app_948.apk,"INTERNET, RECORD_AUDIO, READ_SMS","sendTextMessage, readContacts, encryptData, getDeviceId",17,6,3,4,14498,91,Yes,0
+app_949.apk,"RECORD_AUDIO, INTERNET, WRITE_EXTERNAL_STORAGE, READ_SMS",getLastKnownLocation,39,9,1,1,6805,85,No,1
+app_950.apk,"RECORD_AUDIO, CAMERA, READ_SMS, ACCESS_FINE_LOCATION","sendTextMessage, encryptData, readContacts, getDeviceId",22,1,8,0,33226,64,No,1
+app_951.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS, INTERNET",sendTextMessage,26,9,3,1,19282,69,No,0
+app_952.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, INTERNET","encryptData, readContacts",44,16,8,1,13221,68,Yes,0
+app_953.apk,"CAMERA, RECORD_AUDIO, INTERNET","getDeviceId, encryptData, getLastKnownLocation, readContacts",25,13,8,2,40263,42,Yes,0
+app_954.apk,"INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA","getLastKnownLocation, encryptData",17,9,5,1,12927,28,No,0
+app_955.apk,"RECORD_AUDIO, READ_SMS",getLastKnownLocation,13,13,1,2,47050,37,Yes,0
+app_956.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS",getDeviceId,20,9,7,3,21066,61,Yes,0
+app_957.apk,"CAMERA, WRITE_EXTERNAL_STORAGE, INTERNET, READ_SMS, ACCESS_FINE_LOCATION","encryptData, readContacts, getLastKnownLocation, sendTextMessage",25,11,5,2,2730,58,No,1
+app_958.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA",encryptData,4,4,8,4,7011,46,Yes,1
+app_959.apk,"ACCESS_FINE_LOCATION, RECORD_AUDIO, READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA","encryptData, readContacts, getDeviceId, getLastKnownLocation",10,2,9,0,49780,35,Yes,0
+app_960.apk,"RECORD_AUDIO, READ_SMS",encryptData,3,6,7,3,42729,49,No,0
+app_961.apk,"WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION, INTERNET","readContacts, getDeviceId, sendTextMessage",41,14,7,3,26677,89,No,0
+app_962.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, INTERNET, READ_SMS","encryptData, getDeviceId, sendTextMessage, getLastKnownLocation",45,4,1,4,5265,47,Yes,1
+app_963.apk,"READ_SMS, ACCESS_FINE_LOCATION, INTERNET","encryptData, getDeviceId, readContacts, sendTextMessage",18,6,4,2,20854,86,No,1
+app_964.apk,"INTERNET, RECORD_AUDIO","encryptData, getLastKnownLocation",47,19,2,0,24429,96,Yes,0
+app_965.apk,"ACCESS_FINE_LOCATION, CAMERA","sendTextMessage, readContacts, getLastKnownLocation, encryptData",36,6,2,2,29320,63,No,0
+app_966.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION","sendTextMessage, getLastKnownLocation, encryptData, readContacts",47,2,2,1,46540,31,No,1
+app_967.apk,"CAMERA, READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","getLastKnownLocation, encryptData, getDeviceId, readContacts",22,18,4,2,30023,25,No,1
+app_968.apk,"CAMERA, INTERNET, READ_SMS","getDeviceId, encryptData, readContacts",34,13,1,3,6052,37,No,0
+app_969.apk,"RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","sendTextMessage, readContacts",47,9,4,0,1127,44,Yes,1
+app_970.apk,"ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, READ_SMS, CAMERA","getDeviceId, encryptData, sendTextMessage, getLastKnownLocation",8,19,2,2,12489,69,No,0
+app_971.apk,"WRITE_EXTERNAL_STORAGE, INTERNET, RECORD_AUDIO, READ_SMS","sendTextMessage, getDeviceId",40,13,5,0,14280,54,No,0
+app_972.apk,"WRITE_EXTERNAL_STORAGE, INTERNET",getLastKnownLocation,49,11,3,0,7089,55,No,1
+app_973.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, ACCESS_FINE_LOCATION, CAMERA, INTERNET","getLastKnownLocation, sendTextMessage, getDeviceId",44,1,8,1,35312,81,Yes,1
+app_974.apk,"INTERNET, READ_SMS, WRITE_EXTERNAL_STORAGE",getDeviceId,19,7,4,1,28628,64,Yes,0
+app_975.apk,"READ_SMS, INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO","encryptData, getDeviceId, getLastKnownLocation",42,15,1,3,46439,95,No,1
+app_976.apk,"CAMERA, READ_SMS","getDeviceId, sendTextMessage",41,1,1,4,39152,94,No,0
+app_977.apk,"INTERNET, WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION","getLastKnownLocation, readContacts, sendTextMessage, getDeviceId",37,12,3,0,28290,35,No,1
+app_978.apk,"CAMERA, ACCESS_FINE_LOCATION, READ_SMS, WRITE_EXTERNAL_STORAGE, INTERNET","sendTextMessage, getDeviceId, getLastKnownLocation",6,7,9,4,41453,94,No,0
+app_979.apk,"WRITE_EXTERNAL_STORAGE, READ_SMS",encryptData,26,15,7,3,749,34,No,1
+app_980.apk,"ACCESS_FINE_LOCATION, CAMERA, READ_SMS, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","getDeviceId, readContacts, getLastKnownLocation, encryptData",34,19,2,0,19809,74,No,1
+app_981.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, RECORD_AUDIO, ACCESS_FINE_LOCATION",readContacts,45,1,9,0,26401,15,Yes,0
+app_982.apk,"RECORD_AUDIO, CAMERA",sendTextMessage,6,17,2,4,24076,32,No,1
+app_983.apk,"RECORD_AUDIO, INTERNET, ACCESS_FINE_LOCATION",sendTextMessage,37,17,3,2,32008,73,No,1
+app_984.apk,"INTERNET, WRITE_EXTERNAL_STORAGE","sendTextMessage, getLastKnownLocation, encryptData",33,3,2,1,9675,96,No,1
+app_985.apk,"RECORD_AUDIO, CAMERA, INTERNET, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","readContacts, encryptData, getLastKnownLocation, getDeviceId",22,12,3,2,25964,52,No,0
+app_986.apk,"CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, ACCESS_FINE_LOCATION","getLastKnownLocation, readContacts",21,6,6,4,16760,32,No,1
+app_987.apk,"READ_SMS, WRITE_EXTERNAL_STORAGE, CAMERA","getDeviceId, sendTextMessage",6,11,9,1,35940,39,No,1
+app_988.apk,"READ_SMS, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE","encryptData, getDeviceId, readContacts, sendTextMessage",6,3,9,2,30046,86,Yes,0
+app_989.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, WRITE_EXTERNAL_STORAGE, INTERNET, CAMERA","getLastKnownLocation, sendTextMessage, getDeviceId",48,8,7,1,40547,27,Yes,1
+app_990.apk,"RECORD_AUDIO, CAMERA, WRITE_EXTERNAL_STORAGE, READ_SMS, ACCESS_FINE_LOCATION","getLastKnownLocation, encryptData, sendTextMessage",4,14,3,0,41930,96,Yes,0
+app_991.apk,"RECORD_AUDIO, CAMERA","sendTextMessage, encryptData",30,14,4,2,2487,88,Yes,0
+app_992.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS, ACCESS_FINE_LOCATION","sendTextMessage, encryptData",11,10,6,1,49742,30,Yes,0
+app_993.apk,"WRITE_EXTERNAL_STORAGE, CAMERA, READ_SMS, INTERNET","encryptData, readContacts, getLastKnownLocation, sendTextMessage",30,2,5,1,25605,66,Yes,0
+app_994.apk,"ACCESS_FINE_LOCATION, CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE, READ_SMS",encryptData,31,14,2,1,13448,32,No,1
+app_995.apk,"RECORD_AUDIO, ACCESS_FINE_LOCATION, READ_SMS","getDeviceId, readContacts",24,9,6,2,13526,54,No,0
+app_996.apk,"READ_SMS, RECORD_AUDIO, CAMERA",getLastKnownLocation,9,3,3,3,3273,53,No,1
+app_997.apk,"CAMERA, RECORD_AUDIO, WRITE_EXTERNAL_STORAGE","encryptData, sendTextMessage, readContacts",3,8,8,2,46427,91,No,0
+app_998.apk,"WRITE_EXTERNAL_STORAGE, RECORD_AUDIO, CAMERA, INTERNET, ACCESS_FINE_LOCATION",encryptData,31,16,2,4,10378,97,No,0
+app_999.apk,"INTERNET, ACCESS_FINE_LOCATION, RECORD_AUDIO, CAMERA",sendTextMessage,40,2,1,2,43446,56,No,0
